@@ -1,0 +1,2048 @@
+[
+  {
+    "catalog_analytic_name": "Condenser Temporal Anomaly Detector",
+    "sample_io_data": {
+      "sample_input_data": [
+        {
+          "DATETIME": "2/1/14 0:00",
+          "1A CW PP DSCH PRESS": "46",
+          "AVG CIRC WATER INLET T": "66.5403595",
+          "AVG CIRC WATER OUTLET T": "91.67491913",
+          "CNDSR HOTWELL L LT-CD042": "15.94594765",
+          "CNDSR HOTWELL LVL LT-CD089": "25.4186821",
+          "CNDSR HOTWELL OUTLET T": "103.3637161",
+          "CNDSR INLET-LINE A T": "67.19036865",
+          "CNDSR OUTLET-LINE A T": "91.37286377",
+          "CONDENSER ABS. PRESSURE A": "2.420896203",
+          "EXHAUST HOOD 1A": "1.67757988",
+          "GEN MW": "1250.312012",
+          "LP A EXHAUST HOOD PRESS": "2.307024479",
+          "LP A EXHAUST HOOD TEMP AVG": "106.1734238",
+          "LP TURB 1A GEN END HOOD EXH T": "105.0703049",
+          "LMDT": "21.90089223",
+          "TTD": "36.17334745",
+          "TR": "24.18249512"
+        },
+        {
+          "DATETIME": "2/1/14 0:10",
+          "1A CW PP DSCH PRESS": "46",
+          "AVG CIRC WATER INLET T": "66.59142303",
+          "AVG CIRC WATER OUTLET T": "91.73109436",
+          "CNDSR HOTWELL L LT-CD042": "15.95325565",
+          "CNDSR HOTWELL LVL LT-CD089": "25.34117508",
+          "CNDSR HOTWELL OUTLET T": "103.6276474",
+          "CNDSR INLET-LINE A T": "67.25713348",
+          "CNDSR OUTLET-LINE A T": "91.42858887",
+          "CONDENSER ABS. PRESSURE A": "2.429530682",
+          "EXHAUST HOOD 1A": "1.679053068",
+          "GEN MW": "1249.349731",
+          "LP A EXHAUST HOOD PRESS": "2.308647156",
+          "LP A EXHAUST HOOD TEMP AVG": "106.1904297",
+          "LP TURB 1A GEN END HOOD EXH T": "104.9676437",
+          "LMDT": "22.1269352",
+          "TTD": "36.37051392",
+          "TR": "24.17145539"
+        },
+        {
+          "DATETIME": "2/1/14 0:20",
+          "1A CW PP DSCH PRESS": "46",
+          "AVG CIRC WATER INLET T": "66.61795044",
+          "AVG CIRC WATER OUTLET T": "91.76625824",
+          "CNDSR HOTWELL L LT-CD042": "15.96056461",
+          "CNDSR HOTWELL LVL LT-CD089": "25.39718437",
+          "CNDSR HOTWELL OUTLET T": "103.757637",
+          "CNDSR INLET-LINE A T": "67.34046936",
+          "CNDSR OUTLET-LINE A T": "91.49368286",
+          "CONDENSER ABS. PRESSURE A": "2.432484721",
+          "EXHAUST HOOD 1A": "1.680526257",
+          "GEN MW": "1250.674683",
+          "LP A EXHAUST HOOD PRESS": "2.310269833",
+          "LP A EXHAUST HOOD TEMP AVG": "106.3355331",
+          "LP TURB 1A GEN END HOOD EXH T": "105.9561768",
+          "LMDT": "22.19197752",
+          "TTD": "36.41716764",
+          "TR": "24.1532135"
+        },
+        {
+          "DATETIME": "2/1/14 0:30",
+          "1A CW PP DSCH PRESS": "46",
+          "AVG CIRC WATER INLET T": "66.62997437",
+          "AVG CIRC WATER OUTLET T": "91.77692413",
+          "CNDSR HOTWELL L LT-CD042": "15.96787262",
+          "CNDSR HOTWELL LVL LT-CD089": "25.60553741",
+          "CNDSR HOTWELL OUTLET T": "103.6348877",
+          "CNDSR INLET-LINE A T": "67.43423462",
+          "CNDSR OUTLET-LINE A T": "91.55877686",
+          "CONDENSER ABS. PRESSURE A": "2.436723182",
+          "EXHAUST HOOD 1A": "1.681999445",
+          "GEN MW": "1250.100464",
+          "LP A EXHAUST HOOD PRESS": "2.311892509",
+          "LP A EXHAUST HOOD TEMP AVG": "106.369812",
+          "LP TURB 1A GEN END HOOD EXH T": "105.0315247",
+          "LMDT": "21.97439255",
+          "TTD": "36.20065308",
+          "TR": "24.12454224"
+        },
+        {
+          "DATETIME": "2/1/14 0:40",
+          "1A CW PP DSCH PRESS": "46",
+          "AVG CIRC WATER INLET T": "66.9042511",
+          "AVG CIRC WATER OUTLET T": "91.78759003",
+          "CNDSR HOTWELL L LT-CD042": "15.98722267",
+          "CNDSR HOTWELL LVL LT-CD089": "25.55222893",
+          "CNDSR HOTWELL OUTLET T": "103.705925",
+          "CNDSR INLET-LINE A T": "67.59695435",
+          "CNDSR OUTLET-LINE A T": "91.61186981",
+          "CONDENSER ABS. PRESSURE A": "2.444020757",
+          "EXHAUST HOOD 1A": "1.683472633",
+          "GEN MW": "1248.85791",
+          "LP A EXHAUST HOOD PRESS": "2.313515186",
+          "LP A EXHAUST HOOD TEMP AVG": "106.4104309",
+          "LP TURB 1A GEN END HOOD EXH T": "104.5466766",
+          "LMDT": "21.95494241",
+          "TTD": "36.10897065",
+          "TR": "24.01491546"
+        },
+        {
+          "DATETIME": "2/1/14 0:50",
+          "1A CW PP DSCH PRESS": "46",
+          "AVG CIRC WATER INLET T": "66.84224701",
+          "AVG CIRC WATER OUTLET T": "91.79825592",
+          "CNDSR HOTWELL L LT-CD042": "16.05726433",
+          "CNDSR HOTWELL LVL LT-CD089": "25.45695496",
+          "CNDSR HOTWELL OUTLET T": "104.029686",
+          "CNDSR INLET-LINE A T": "67.47286224",
+          "CNDSR OUTLET-LINE A T": "91.65850067",
+          "CONDENSER ABS. PRESSURE A": "2.444598749",
+          "EXHAUST HOOD 1A": "1.684945822",
+          "GEN MW": "1249.405396",
+          "LP A EXHAUST HOOD PRESS": "2.315137625",
+          "LP A EXHAUST HOOD TEMP AVG": "106.4569244",
+          "LP TURB 1A GEN END HOOD EXH T": "105.0760956",
+          "LMDT": "22.32181466",
+          "TTD": "36.55682376",
+          "TR": "24.18563843"
+        },
+        {
+          "DATETIME": "2/1/14 1:00",
+          "1A CW PP DSCH PRESS": "46",
+          "AVG CIRC WATER INLET T": "66.77143097",
+          "AVG CIRC WATER OUTLET T": "91.82046509",
+          "CNDSR HOTWELL L LT-CD042": "16.01735687",
+          "CNDSR HOTWELL LVL LT-CD089": "25.4260273",
+          "CNDSR HOTWELL OUTLET T": "103.6655273",
+          "CNDSR INLET-LINE A T": "67.37932587",
+          "CNDSR OUTLET-LINE A T": "91.69960022",
+          "CONDENSER ABS. PRESSURE A": "2.437267881",
+          "EXHAUST HOOD 1A": "1.68641901",
+          "GEN MW": "1250.614258",
+          "LP A EXHAUST HOOD PRESS": "2.316760302",
+          "LP A EXHAUST HOOD TEMP AVG": "106.2417603",
+          "LP TURB 1A GEN END HOOD EXH T": "105.9812088",
+          "LMDT": "21.92251382",
+          "TTD": "36.28620143",
+          "TR": "24.32027435"
+        },
+        {
+          "DATETIME": "2/1/14 1:10",
+          "1A CW PP DSCH PRESS": "46",
+          "AVG CIRC WATER INLET T": "66.78478241",
+          "AVG CIRC WATER OUTLET T": "91.91170502",
+          "CNDSR HOTWELL L LT-CD042": "15.97744846",
+          "CNDSR HOTWELL LVL LT-CD089": "25.46915054",
+          "CNDSR HOTWELL OUTLET T": "103.7155533",
+          "CNDSR INLET-LINE A T": "67.48429108",
+          "CNDSR OUTLET-LINE A T": "91.73774719",
+          "CONDENSER ABS. PRESSURE A": "2.436011123",
+          "EXHAUST HOOD 1A": "1.687892199",
+          "GEN MW": "1250.937378",
+          "LP A EXHAUST HOOD PRESS": "2.318382978",
+          "LP A EXHAUST HOOD TEMP AVG": "106.3441315",
+          "LP TURB 1A GEN END HOOD EXH T": "105.0767517",
+          "LMDT": "21.91180907",
+          "TTD": "36.23126222",
+          "TR": "24.25345611"
+        },
+        {
+          "DATETIME": "2/1/14 1:20",
+          "1A CW PP DSCH PRESS": "46",
+          "AVG CIRC WATER INLET T": "66.83289337",
+          "AVG CIRC WATER OUTLET T": "92.00294495",
+          "CNDSR HOTWELL L LT-CD042": "15.98146343",
+          "CNDSR HOTWELL LVL LT-CD089": "25.50834274",
+          "CNDSR HOTWELL OUTLET T": "103.8041916",
+          "CNDSR INLET-LINE A T": "67.62619781",
+          "CNDSR OUTLET-LINE A T": "91.77589417",
+          "CONDENSER ABS. PRESSURE A": "2.444653034",
+          "EXHAUST HOOD 1A": "1.689365387",
+          "GEN MW": "1250.312012",
+          "LP A EXHAUST HOOD PRESS": "2.320005655",
+          "LP A EXHAUST HOOD TEMP AVG": "106.0849991",
+          "LP TURB 1A GEN END HOOD EXH T": "105.2111588",
+          "LMDT": "21.93056378",
+          "TTD": "36.17799379",
+          "TR": "24.14969636"
+        },
+        {
+          "DATETIME": "2/1/14 1:30",
+          "1A CW PP DSCH PRESS": "46",
+          "AVG CIRC WATER INLET T": "66.85334015",
+          "AVG CIRC WATER OUTLET T": "92.09418488",
+          "CNDSR HOTWELL L LT-CD042": "15.98762894",
+          "CNDSR HOTWELL LVL LT-CD089": "25.48776436",
+          "CNDSR HOTWELL OUTLET T": "103.7675247",
+          "CNDSR INLET-LINE A T": "67.6217804",
+          "CNDSR OUTLET-LINE A T": "91.81858826",
+          "CONDENSER ABS. PRESSURE A": "2.452490677",
+          "EXHAUST HOOD 1A": "1.690838575",
+          "GEN MW": "1250.23645",
+          "LP A EXHAUST HOOD PRESS": "2.321628094",
+          "LP A EXHAUST HOOD TEMP AVG": "106.2215195",
+          "LP TURB 1A GEN END HOOD EXH T": "106.1048431",
+          "LMDT": "21.85964175",
+          "TTD": "36.1457443",
+          "TR": "24.19680786"
+        }
+      ],
+      "sample_output_data": [
+        {
+          "alert": "alert",
+          "begin": "11/10/14 18:21",
+          "end": "12/7/14 6:07",
+          "alert_mean": "0.72665459",
+          "alert_median": "0.727719934",
+          "alert_max": "0.729246088",
+          "contributing features": "[4, 2, 3, 1, 0]",
+          "contributing feature weights": "[0.04378106485126281, 0.03566132067311865, 0.024383621970587355, 0.012613327941161526, 0.010211826814328665]"
+        },
+        {
+          "alert": "alert",
+          "begin": "12/29/14 14:05",
+          "end": "1/216/2015  6:23:00 AM",
+          "alert_mean": "0.725542837",
+          "alert_median": "0.826767979",
+          "alert_max": "0.829292827",
+          "contributing features": "[4, 2, 1, 3, 0]",
+          "contributing feature weights": "[0.03629998333698285, 0.034692839814223914, 0.030239451216290025, 0.023433785340126828, 0.009943471069219676]"
+        },
+        {
+          "alert": "alert",
+          "begin": "2/8/15 20:44",
+          "end": "2/28/14 8:07",
+          "alert_mean": "0.726077728",
+          "alert_median": "0.726723143",
+          "alert_max": "0.830186343",
+          "contributing features": "[4, 2, 0, 3, 1]",
+          "contributing feature weights": "[0.06149851761661908, 0.03992958543000026, 0.03971378880440275, 0.038037577536748086, 0.022395929342776445]"
+        }
+      ],
+      "sample_chart_data": [
+        {
+          "Timestamp": "1498532220",
+          "raw_score": "0.691114"
+        },
+        {
+          "Timestamp": "1498532820",
+          "raw_score": "0.6933232"
+        },
+        {
+          "Timestamp": "1498533420",
+          "raw_score": "0.6955012"
+        },
+        {
+          "Timestamp": "1498534020",
+          "raw_score": "0.6999295"
+        },
+        {
+          "Timestamp": "1498534620",
+          "raw_score": "0.7074236"
+        },
+        {
+          "Timestamp": "1498535220",
+          "raw_score": "0.7136491"
+        },
+        {
+          "Timestamp": "1498535820",
+          "raw_score": "0.7199018"
+        },
+        {
+          "Timestamp": "1498536480",
+          "raw_score": "0.7255979"
+        },
+        {
+          "Timestamp": "1498537080",
+          "raw_score": "0.7293806"
+        },
+        {
+          "Timestamp": "1498537680",
+          "raw_score": "0.7316679"
+        },
+        {
+          "Timestamp": "1498538280",
+          "raw_score": "0.7339481"
+        },
+        {
+          "Timestamp": "1498538880",
+          "raw_score": "0.7362693"
+        },
+        {
+          "Timestamp": "1498539480",
+          "raw_score": "0.7393865"
+        },
+        {
+          "Timestamp": "1498540080",
+          "raw_score": "0.7438227"
+        },
+        {
+          "Timestamp": "1498540680",
+          "raw_score": "0.7450242"
+        },
+        {
+          "Timestamp": "1498541280",
+          "raw_score": "0.7531829"
+        },
+        {
+          "Timestamp": "1498541880",
+          "raw_score": "0.7612853"
+        },
+        {
+          "Timestamp": "1498542480",
+          "raw_score": "0.7694513"
+        },
+        {
+          "Timestamp": "1498543080",
+          "raw_score": "0.7775196"
+        },
+        {
+          "Timestamp": "1498543680",
+          "raw_score": "0.7854714"
+        },
+        {
+          "Timestamp": "1498544280",
+          "raw_score": "0.7933531"
+        },
+        {
+          "Timestamp": "1498544880",
+          "raw_score": "0.8011886"
+        },
+        {
+          "Timestamp": "1498545480",
+          "raw_score": "0.8088258"
+        },
+        {
+          "Timestamp": "1498546080",
+          "raw_score": "0.8178223"
+        },
+        {
+          "Timestamp": "1498546680",
+          "raw_score": "0.8283391"
+        },
+        {
+          "Timestamp": "1498547340",
+          "raw_score": "0.8388272"
+        },
+        {
+          "Timestamp": "1498547940",
+          "raw_score": "0.8487799"
+        },
+        {
+          "Timestamp": "1498548540",
+          "raw_score": "0.8580359"
+        },
+        {
+          "Timestamp": "1498549140",
+          "raw_score": "0.8669844"
+        },
+        {
+          "Timestamp": "1498549740",
+          "raw_score": "0.8759201"
+        },
+        {
+          "Timestamp": "1498550340",
+          "raw_score": "0.8848462"
+        },
+        {
+          "Timestamp": "1498550940",
+          "raw_score": "0.8944997"
+        },
+        {
+          "Timestamp": "1498551540",
+          "raw_score": "0.9048926"
+        },
+        {
+          "Timestamp": "1498552140",
+          "raw_score": "0.9153066"
+        },
+        {
+          "Timestamp": "1498552800",
+          "raw_score": "0.9257572"
+        },
+        {
+          "Timestamp": "1498553400",
+          "raw_score": "0.9362499"
+        },
+        {
+          "Timestamp": "1498554060",
+          "raw_score": "0.9586629"
+        },
+        {
+          "Timestamp": "1498554660",
+          "raw_score": "1.0031787"
+        },
+        {
+          "Timestamp": "1498555380",
+          "raw_score": "1.0473623"
+        },
+        {
+          "Timestamp": "1498556040",
+          "raw_score": "1.0915316"
+        },
+        {
+          "Timestamp": "1498556760",
+          "raw_score": "1.1331778"
+        },
+        {
+          "Timestamp": "1498557360",
+          "raw_score": "1.1753777"
+        },
+        {
+          "Timestamp": "1498558080",
+          "raw_score": "1.2183706"
+        },
+        {
+          "Timestamp": "1498558680",
+          "raw_score": "1.2544618"
+        },
+        {
+          "Timestamp": "1498559280",
+          "raw_score": "1.2910499"
+        },
+        {
+          "Timestamp": "1498559880",
+          "raw_score": "1.3323476"
+        },
+        {
+          "Timestamp": "1498560540",
+          "raw_score": "1.3763405"
+        },
+        {
+          "Timestamp": "1498561200",
+          "raw_score": "1.419995"
+        },
+        {
+          "Timestamp": "1498561980",
+          "raw_score": "1.4634561"
+        },
+        {
+          "Timestamp": "1498562580",
+          "raw_score": "1.5025171"
+        },
+        {
+          "Timestamp": "1498563240",
+          "raw_score": "1.5389313"
+        },
+        {
+          "Timestamp": "1498563840",
+          "raw_score": "1.5758007"
+        },
+        {
+          "Timestamp": "1498564560",
+          "raw_score": "1.6127123"
+        },
+        {
+          "Timestamp": "1498565160",
+          "raw_score": "1.6496588"
+        },
+        {
+          "Timestamp": "1498565880",
+          "raw_score": "1.6867177"
+        },
+        {
+          "Timestamp": "1498566480",
+          "raw_score": "1.7237157"
+        },
+        {
+          "Timestamp": "1498567260",
+          "raw_score": "1.7605398"
+        },
+        {
+          "Timestamp": "1498567860",
+          "raw_score": "1.7973364"
+        },
+        {
+          "Timestamp": "1498568700",
+          "raw_score": "1.8341909"
+        },
+        {
+          "Timestamp": "1498569300",
+          "raw_score": "1.8686597"
+        },
+        {
+          "Timestamp": "1498569900",
+          "raw_score": "1.9010184"
+        },
+        {
+          "Timestamp": "1498570500",
+          "raw_score": "1.9334999"
+        },
+        {
+          "Timestamp": "1498571100",
+          "raw_score": "1.9661564"
+        },
+        {
+          "Timestamp": "1498571700",
+          "raw_score": "1.9967671"
+        },
+        {
+          "Timestamp": "1498572300",
+          "raw_score": "2.020101"
+        },
+        {
+          "Timestamp": "1498572900",
+          "raw_score": "2.0392027"
+        },
+        {
+          "Timestamp": "1498573500",
+          "raw_score": "2.0573069"
+        },
+        {
+          "Timestamp": "1498574100",
+          "raw_score": "2.0749363"
+        },
+        {
+          "Timestamp": "1498574700",
+          "raw_score": "2.0923281"
+        },
+        {
+          "Timestamp": "1498575300",
+          "raw_score": "2.1103792"
+        },
+        {
+          "Timestamp": "1498575900",
+          "raw_score": "2.1290076"
+        },
+        {
+          "Timestamp": "1498576500",
+          "raw_score": "2.1483412"
+        },
+        {
+          "Timestamp": "1498577100",
+          "raw_score": "2.1685422"
+        },
+        {
+          "Timestamp": "1498577700",
+          "raw_score": "2.1743716"
+        },
+        {
+          "Timestamp": "1498578300",
+          "raw_score": "2.1811937"
+        },
+        {
+          "Timestamp": "1498578900",
+          "raw_score": "2.1810104"
+        },
+        {
+          "Timestamp": "1498579680",
+          "raw_score": "2.1810934"
+        },
+        {
+          "Timestamp": "1498580280",
+          "raw_score": "2.1813309"
+        },
+        {
+          "Timestamp": "1498580880",
+          "raw_score": "2.1816327"
+        },
+        {
+          "Timestamp": "1498581480",
+          "raw_score": "2.1820193"
+        },
+        {
+          "Timestamp": "1498582080",
+          "raw_score": "2.1824459"
+        },
+        {
+          "Timestamp": "1498582680",
+          "raw_score": "2.1828902"
+        },
+        {
+          "Timestamp": "1498583340",
+          "raw_score": "2.1832432"
+        },
+        {
+          "Timestamp": "1498583940",
+          "raw_score": "2.21282"
+        },
+        {
+          "Timestamp": "1498584540",
+          "raw_score": "2.2380732"
+        },
+        {
+          "Timestamp": "1498585140",
+          "raw_score": "2.2611162"
+        },
+        {
+          "Timestamp": "1498585740",
+          "raw_score": "2.283356"
+        },
+        {
+          "Timestamp": "1498586340",
+          "raw_score": "2.307265"
+        },
+        {
+          "Timestamp": "1498586940",
+          "raw_score": "2.3322579"
+        },
+        {
+          "Timestamp": "1498587540",
+          "raw_score": "2.3562904"
+        },
+        {
+          "Timestamp": "1498588140",
+          "raw_score": "2.3842906"
+        },
+        {
+          "Timestamp": "1498588740",
+          "raw_score": "2.4255512"
+        },
+        {
+          "Timestamp": "1498589340",
+          "raw_score": "2.4754095"
+        },
+        {
+          "Timestamp": "1498589940",
+          "raw_score": "2.5247723"
+        },
+        {
+          "Timestamp": "1498590600",
+          "raw_score": "2.5736695"
+        },
+        {
+          "Timestamp": "1498591200",
+          "raw_score": "2.6232197"
+        },
+        {
+          "Timestamp": "1498591800",
+          "raw_score": "2.6619722"
+        },
+        {
+          "Timestamp": "1498592400",
+          "raw_score": "2.6781285"
+        },
+        {
+          "Timestamp": "1498593000",
+          "raw_score": "2.694139"
+        },
+        {
+          "Timestamp": "1498593600",
+          "raw_score": "2.7096823"
+        },
+        {
+          "Timestamp": "1498594200",
+          "raw_score": "2.7247763"
+        },
+        {
+          "Timestamp": "1498594800",
+          "raw_score": "2.7393642"
+        },
+        {
+          "Timestamp": "1498595400",
+          "raw_score": "2.7527798"
+        },
+        {
+          "Timestamp": "1498596000",
+          "raw_score": "2.7728477"
+        },
+        {
+          "Timestamp": "1498596600",
+          "raw_score": "2.7923531"
+        },
+        {
+          "Timestamp": "1498597200",
+          "raw_score": "2.8073291"
+        },
+        {
+          "Timestamp": "1498597800",
+          "raw_score": "2.8201758"
+        },
+        {
+          "Timestamp": "1498598400",
+          "raw_score": "2.8343029"
+        },
+        {
+          "Timestamp": "1498599000",
+          "raw_score": "2.8498269"
+        },
+        {
+          "Timestamp": "1498599600",
+          "raw_score": "2.8668226"
+        },
+        {
+          "Timestamp": "1498600620",
+          "raw_score": "2.8814764"
+        },
+        {
+          "Timestamp": "1498601280",
+          "raw_score": "2.8885791"
+        },
+        {
+          "Timestamp": "1498601880",
+          "raw_score": "2.8957084"
+        },
+        {
+          "Timestamp": "1498602480",
+          "raw_score": "2.905178"
+        },
+        {
+          "Timestamp": "1498603080",
+          "raw_score": "2.9132204"
+        },
+        {
+          "Timestamp": "1498603680",
+          "raw_score": "2.9187871"
+        },
+        {
+          "Timestamp": "1498604280",
+          "raw_score": "2.923633"
+        },
+        {
+          "Timestamp": "1498604880",
+          "raw_score": "2.9292827"
+        },
+        {
+          "Timestamp": "1498605480",
+          "raw_score": "2.9183353"
+        },
+        {
+          "Timestamp": "1498606080",
+          "raw_score": "2.9003037"
+        },
+        {
+          "Timestamp": "1498606680",
+          "raw_score": "2.8845937"
+        },
+        {
+          "Timestamp": "1498607280",
+          "raw_score": "2.8689639"
+        },
+        {
+          "Timestamp": "1498607880",
+          "raw_score": "2.8533691"
+        },
+        {
+          "Timestamp": "1498608540",
+          "raw_score": "2.8377476"
+        },
+        {
+          "Timestamp": "1498609200",
+          "raw_score": "2.8253167"
+        },
+        {
+          "Timestamp": "1498609860",
+          "raw_score": "2.8172931"
+        },
+        {
+          "Timestamp": "1498610520",
+          "raw_score": "2.8104375"
+        },
+        {
+          "Timestamp": "1498611180",
+          "raw_score": "2.8042225"
+        },
+        {
+          "Timestamp": "1498612320",
+          "raw_score": "2.7997076"
+        },
+        {
+          "Timestamp": "1498612920",
+          "raw_score": "2.7960926"
+        },
+        {
+          "Timestamp": "1498613520",
+          "raw_score": "2.7919715"
+        },
+        {
+          "Timestamp": "1498614120",
+          "raw_score": "2.7872245"
+        },
+        {
+          "Timestamp": "1498614720",
+          "raw_score": "2.7764881"
+        },
+        {
+          "Timestamp": "1498615320",
+          "raw_score": "2.7741838"
+        },
+        {
+          "Timestamp": "1498615920",
+          "raw_score": "2.7739648"
+        },
+        {
+          "Timestamp": "1498616520",
+          "raw_score": "2.7739728"
+        },
+        {
+          "Timestamp": "1498617120",
+          "raw_score": "2.7742793"
+        },
+        {
+          "Timestamp": "1498617720",
+          "raw_score": "2.7753792"
+        },
+        {
+          "Timestamp": "1498618320",
+          "raw_score": "2.7772935"
+        },
+        {
+          "Timestamp": "1498618920",
+          "raw_score": "2.7796446"
+        },
+        {
+          "Timestamp": "1498619520",
+          "raw_score": "2.7825238"
+        },
+        {
+          "Timestamp": "1498620120",
+          "raw_score": "2.7788539"
+        },
+        {
+          "Timestamp": "1498620720",
+          "raw_score": "2.7739263"
+        },
+        {
+          "Timestamp": "1498621320",
+          "raw_score": "2.7384557"
+        },
+        {
+          "Timestamp": "1498621920",
+          "raw_score": "2.7058254"
+        },
+        {
+          "Timestamp": "1498622580",
+          "raw_score": "2.6754673"
+        },
+        {
+          "Timestamp": "1498623180",
+          "raw_score": "2.6464774"
+        },
+        {
+          "Timestamp": "1498623780",
+          "raw_score": "2.6162481"
+        },
+        {
+          "Timestamp": "1498624380",
+          "raw_score": "2.5849654"
+        },
+        {
+          "Timestamp": "1498624980",
+          "raw_score": "2.5546695"
+        },
+        {
+          "Timestamp": "1498625580",
+          "raw_score": "2.5204267"
+        },
+        {
+          "Timestamp": "1498626180",
+          "raw_score": "2.4729361"
+        },
+        {
+          "Timestamp": "1498626780",
+          "raw_score": "2.4177409"
+        },
+        {
+          "Timestamp": "1498627380",
+          "raw_score": "2.3649226"
+        },
+        {
+          "Timestamp": "1498627980",
+          "raw_score": "2.312572"
+        },
+        {
+          "Timestamp": "1498628580",
+          "raw_score": "2.2595584"
+        },
+        {
+          "Timestamp": "1498629180",
+          "raw_score": "2.2050969"
+        },
+        {
+          "Timestamp": "1498629780",
+          "raw_score": "2.150557"
+        },
+        {
+          "Timestamp": "1498630380",
+          "raw_score": "2.0964113"
+        },
+        {
+          "Timestamp": "1498630980",
+          "raw_score": "2.0429855"
+        },
+        {
+          "Timestamp": "1498631580",
+          "raw_score": "1.9900947"
+        },
+        {
+          "Timestamp": "1498632180",
+          "raw_score": "1.9379484"
+        },
+        {
+          "Timestamp": "1498632780",
+          "raw_score": "1.8863805"
+        },
+        {
+          "Timestamp": "1498633560",
+          "raw_score": "1.8350394"
+        },
+        {
+          "Timestamp": "1498634160",
+          "raw_score": "1.7837544"
+        },
+        {
+          "Timestamp": "1498634760",
+          "raw_score": "1.7310929"
+        },
+        {
+          "Timestamp": "1498635360",
+          "raw_score": "1.6784108"
+        },
+        {
+          "Timestamp": "1498636020",
+          "raw_score": "1.6248045"
+        },
+        {
+          "Timestamp": "1498636620",
+          "raw_score": "1.5700117"
+        },
+        {
+          "Timestamp": "1498637220",
+          "raw_score": "1.5181629"
+        },
+        {
+          "Timestamp": "1498637820",
+          "raw_score": "1.4722669"
+        },
+        {
+          "Timestamp": "1498638540",
+          "raw_score": "1.4338814"
+        },
+        {
+          "Timestamp": "1498639320",
+          "raw_score": "1.3954213"
+        },
+        {
+          "Timestamp": "1498639980",
+          "raw_score": "1.3545783"
+        },
+        {
+          "Timestamp": "1498640700",
+          "raw_score": "1.3225965"
+        },
+        {
+          "Timestamp": "1498641480",
+          "raw_score": "1.3041397"
+        },
+        {
+          "Timestamp": "1498642140",
+          "raw_score": "1.2859941"
+        },
+        {
+          "Timestamp": "1498642920",
+          "raw_score": "1.2667437"
+        },
+        {
+          "Timestamp": "1498643580",
+          "raw_score": "1.2635885"
+        },
+        {
+          "Timestamp": "1498644480",
+          "raw_score": "1.26966"
+        },
+        {
+          "Timestamp": "1498645080",
+          "raw_score": "1.2755262"
+        },
+        {
+          "Timestamp": "1498645680",
+          "raw_score": "1.2809352"
+        },
+        {
+          "Timestamp": "1498646280",
+          "raw_score": "1.2858871"
+        },
+        {
+          "Timestamp": "1498646880",
+          "raw_score": "1.2921545"
+        },
+        {
+          "Timestamp": "1498647480",
+          "raw_score": "1.2992532"
+        },
+        {
+          "Timestamp": "1498648080",
+          "raw_score": "1.3061194"
+        },
+        {
+          "Timestamp": "1498648680",
+          "raw_score": "1.312787"
+        },
+        {
+          "Timestamp": "1498649280",
+          "raw_score": "1.3131966"
+        },
+        {
+          "Timestamp": "1498649880",
+          "raw_score": "1.3092923"
+        },
+        {
+          "Timestamp": "1498650480",
+          "raw_score": "1.3037955"
+        },
+        {
+          "Timestamp": "1498651080",
+          "raw_score": "1.2981894"
+        },
+        {
+          "Timestamp": "1498651680",
+          "raw_score": "1.2924633"
+        },
+        {
+          "Timestamp": "1498652760",
+          "raw_score": "1.2918193"
+        },
+        {
+          "Timestamp": "1498653360",
+          "raw_score": "1.2970787"
+        },
+        {
+          "Timestamp": "1498654200",
+          "raw_score": "1.3030033"
+        },
+        {
+          "Timestamp": "1498655220",
+          "raw_score": "1.3069069"
+        },
+        {
+          "Timestamp": "1498656060",
+          "raw_score": "1.3105524"
+        },
+        {
+          "Timestamp": "1498657080",
+          "raw_score": "1.3134611"
+        },
+        {
+          "Timestamp": "1498657680",
+          "raw_score": "1.3156312"
+        },
+        {
+          "Timestamp": "1498658580",
+          "raw_score": "1.3174642"
+        },
+        {
+          "Timestamp": "1498659180",
+          "raw_score": "1.3188964"
+        },
+        {
+          "Timestamp": "1498659780",
+          "raw_score": "1.3270377"
+        },
+        {
+          "Timestamp": "1498660380",
+          "raw_score": "1.3363939"
+        },
+        {
+          "Timestamp": "1498660980",
+          "raw_score": "1.3443368"
+        },
+        {
+          "Timestamp": "1498661580",
+          "raw_score": "1.351207"
+        },
+        {
+          "Timestamp": "1498662180",
+          "raw_score": "1.3580521"
+        },
+        {
+          "Timestamp": "1498662780",
+          "raw_score": "1.3649158"
+        },
+        {
+          "Timestamp": "1498663440",
+          "raw_score": "1.3718085"
+        },
+        {
+          "Timestamp": "1498664040",
+          "raw_score": "1.3787386"
+        },
+        {
+          "Timestamp": "1498664640",
+          "raw_score": "1.3857125"
+        },
+        {
+          "Timestamp": "1498665240",
+          "raw_score": "1.392735"
+        },
+        {
+          "Timestamp": "1498665900",
+          "raw_score": "1.3993139"
+        },
+        {
+          "Timestamp": "1498666500",
+          "raw_score": "1.4056828"
+        },
+        {
+          "Timestamp": "1498667100",
+          "raw_score": "1.4101773"
+        },
+        {
+          "Timestamp": "1498667700",
+          "raw_score": "1.4146521"
+        },
+        {
+          "Timestamp": "1498668300",
+          "raw_score": "1.419089"
+        },
+        {
+          "Timestamp": "1498668900",
+          "raw_score": "1.4238073"
+        },
+        {
+          "Timestamp": "1498669500",
+          "raw_score": "1.429064"
+        },
+        {
+          "Timestamp": "1498670160",
+          "raw_score": "1.4287285"
+        },
+        {
+          "Timestamp": "1498670760",
+          "raw_score": "1.4578205"
+        },
+        {
+          "Timestamp": "1498671360",
+          "raw_score": "1.4836403"
+        },
+        {
+          "Timestamp": "1498671960",
+          "raw_score": "1.5065903"
+        },
+        {
+          "Timestamp": "1498672560",
+          "raw_score": "1.5272147"
+        },
+        {
+          "Timestamp": "1498673220",
+          "raw_score": "1.5460729"
+        },
+        {
+          "Timestamp": "1498673820",
+          "raw_score": "1.562786"
+        },
+        {
+          "Timestamp": "1498674420",
+          "raw_score": "1.5801329"
+        },
+        {
+          "Timestamp": "1498675020",
+          "raw_score": "1.6005046"
+        },
+        {
+          "Timestamp": "1498675680",
+          "raw_score": "1.6348377"
+        },
+        {
+          "Timestamp": "1498676340",
+          "raw_score": "1.6793038"
+        },
+        {
+          "Timestamp": "1498677120",
+          "raw_score": "1.7229073"
+        },
+        {
+          "Timestamp": "1498677720",
+          "raw_score": "1.7657031"
+        },
+        {
+          "Timestamp": "1498678320",
+          "raw_score": "1.8077376"
+        },
+        {
+          "Timestamp": "1498678980",
+          "raw_score": "1.8490513"
+        },
+        {
+          "Timestamp": "1498679580",
+          "raw_score": "1.8910835"
+        },
+        {
+          "Timestamp": "1498680180",
+          "raw_score": "1.9256973"
+        }
+      ],
+      "sample_chart_x_axis": {
+        "title": "Time",
+        "labelPosition": "center",
+        "orientation": "bottom"
+      },
+      "sample_chart_series_config": {
+        "firstSerie": {
+          "type": "line",
+          "name": "Serie1",
+          "xAxisUnit": "time",
+          "yAxisUnit": "Raw Score 10^-3",
+          "x": "Timestamp",
+          "y": "raw_score",
+          "timeData": "Timestamp"
+        }
+      }
+    }
+  },
+  {
+    "catalog_analytic_name": "Continuous Performance Forecasting",
+    "sample_io_data": {
+      "sample_input_data": [
+        {
+          "BL1.AFPAP": "29.87092972",
+          "BL1.ATDB": "50.855896",
+          "GT1001.RHUM": "56.71611786",
+          "GT1001.FQG": "22.26993561"
+        },
+        {
+          "BL1.AFPAP": "29.87340546",
+          "BL1.ATDB": "49.84915161",
+          "GT1001.RHUM": "57.97459412",
+          "GT1001.FQG": "22.28727913"
+        },
+        {
+          "BL1.AFPAP": "29.8758831",
+          "BL1.ATDB": "48.46200562",
+          "GT1001.RHUM": "55.28402328",
+          "GT1001.FQG": "22.22684288"
+        },
+        {
+          "BL1.AFPAP": "29.87835884",
+          "BL1.ATDB": "49.98038101",
+          "GT1001.RHUM": "53.15783691",
+          "GT1001.FQG": "22.2123127"
+        },
+        {
+          "BL1.AFPAP": "29.88083458",
+          "BL1.ATDB": "50.90022659",
+          "GT1001.RHUM": "51.98629761",
+          "GT1001.FQG": "22.22081947"
+        },
+        {
+          "BL1.AFPAP": "29.88331032",
+          "BL1.ATDB": "49.76602173",
+          "GT1001.RHUM": "54.41255188",
+          "GT1001.FQG": "22.26357079"
+        },
+        {
+          "BL1.AFPAP": "29.88578606",
+          "BL1.ATDB": "50.43786621",
+          "GT1001.RHUM": "55.63289261",
+          "GT1001.FQG": "22.25104713"
+        },
+        {
+          "BL1.AFPAP": "29.8882618",
+          "BL1.ATDB": "51.30462646",
+          "GT1001.RHUM": "47.99176788",
+          "GT1001.FQG": "22.07465363"
+        },
+        {
+          "BL1.AFPAP": "29.89073753",
+          "BL1.ATDB": "50.92642212",
+          "GT1001.RHUM": "50.15871811",
+          "GT1001.FQG": "22.09274673"
+        },
+        {
+          "BL1.AFPAP": "29.89321327",
+          "BL1.ATDB": "50.9140625",
+          "GT1001.RHUM": "52.05382919",
+          "GT1001.FQG": "22.19932175"
+        },
+        {
+          "BL1.AFPAP": "29.89569092",
+          "BL1.ATDB": "50.95967102",
+          "GT1001.RHUM": "53.21858597",
+          "GT1001.FQG": "22.25631142"
+        },
+        {
+          "BL1.AFPAP": "29.89816666",
+          "BL1.ATDB": "51.03522491",
+          "GT1001.RHUM": "51.40894699",
+          "GT1001.FQG": "22.13496208"
+        },
+        {
+          "BL1.AFPAP": "29.90157509",
+          "BL1.ATDB": "50.91304779",
+          "GT1001.RHUM": "50.78905106",
+          "GT1001.FQG": "22.19925308"
+        },
+        {
+          "BL1.AFPAP": "29.90492821",
+          "BL1.ATDB": "51.22667694",
+          "GT1001.RHUM": "46.85638428",
+          "GT1001.FQG": "22.20920181"
+        },
+        {
+          "BL1.AFPAP": "29.90689659",
+          "BL1.ATDB": "50.8599205",
+          "GT1001.RHUM": "46.3034668",
+          "GT1001.FQG": "22.20098877"
+        }
+      ],
+      "sample_output_data": [
+        {
+          "mw_gt1_bl_pred": "191.3155855",
+          "ff_gt1_bl_pred": "23.02383714",
+          "mw_gt2_bl_pred": "191.6506762",
+          "ff_gt2_bl_pred": "22.57552848",
+          "mw_st_bl_pred": "184.5062284"
+        },
+        {
+          "mw_gt1_bl_pred": "186.4371001",
+          "ff_gt1_bl_pred": "22.38871515",
+          "mw_gt2_bl_pred": "186.349208",
+          "ff_gt2_bl_pred": "22.39217848",
+          "mw_st_bl_pred": "183.104677"
+        },
+        {
+          "mw_gt1_bl_pred": "184.6622341",
+          "ff_gt1_bl_pred": "22.30968394",
+          "mw_gt2_bl_pred": "185.4273231",
+          "ff_gt2_bl_pred": "22.18370384",
+          "mw_st_bl_pred": "183.5710165"
+        },
+        {
+          "mw_gt1_bl_pred": "184.9308027",
+          "ff_gt1_bl_pred": "22.2191989",
+          "mw_gt2_bl_pred": "185.3355876",
+          "ff_gt2_bl_pred": "22.2435948",
+          "mw_st_bl_pred": "180.9183611"
+        },
+        {
+          "mw_gt1_bl_pred": "185.6416911",
+          "ff_gt1_bl_pred": "22.21395791",
+          "mw_gt2_bl_pred": "185.9806391",
+          "ff_gt2_bl_pred": "22.23430312",
+          "mw_st_bl_pred": "183.4717906"
+        },
+        {
+          "mw_gt1_bl_pred": "186.7294735",
+          "ff_gt1_bl_pred": "22.29993955",
+          "mw_gt2_bl_pred": "186.6887673",
+          "ff_gt2_bl_pred": "22.25747331",
+          "mw_st_bl_pred": "179.6847058"
+        },
+        {
+          "mw_gt1_bl_pred": "185.6141797",
+          "ff_gt1_bl_pred": "22.1540184",
+          "mw_gt2_bl_pred": "186.2288781",
+          "ff_gt2_bl_pred": "22.15948021",
+          "mw_st_bl_pred": "183.7685595"
+        },
+        {
+          "mw_gt1_bl_pred": "185.3481202",
+          "ff_gt1_bl_pred": "22.17053098",
+          "mw_gt2_bl_pred": "185.9251127",
+          "ff_gt2_bl_pred": "22.20380854",
+          "mw_st_bl_pred": "184.1843249"
+        },
+        {
+          "mw_gt1_bl_pred": "186.1098871",
+          "ff_gt1_bl_pred": "22.24549707",
+          "mw_gt2_bl_pred": "186.3410352",
+          "ff_gt2_bl_pred": "22.2557113",
+          "mw_st_bl_pred": "186.25778"
+        }
+      ],
+      "sample_chart_data": [
+        {
+          "time": "1499817600",
+          "gp_plant_pl_mape": "0.2199301"
+        },
+        {
+          "time": "1499904000",
+          "gp_plant_pl_mape": "0.2239578"
+        },
+        {
+          "time": "1499990400",
+          "gp_plant_pl_mape": "0.3611169"
+        },
+        {
+          "time": "1500076800",
+          "gp_plant_pl_mape": "0.0875024"
+        },
+        {
+          "time": "1500163200",
+          "gp_plant_pl_mape": "0.3120141"
+        },
+        {
+          "time": "1500249600",
+          "gp_plant_pl_mape": "0.266227"
+        },
+        {
+          "time": "1500508800",
+          "gp_plant_pl_mape": "0.2349871"
+        },
+        {
+          "time": "1500595200",
+          "gp_plant_pl_mape": "0.1984312"
+        },
+        {
+          "time": "1500681600",
+          "gp_plant_pl_mape": "0.2262144"
+        },
+        {
+          "time": "1500768000",
+          "gp_plant_pl_mape": "0.2945211"
+        },
+        {
+          "time": "1500854400",
+          "gp_plant_pl_mape": "0.1564002"
+        },
+        {
+          "time": "1501027200",
+          "gp_plant_pl_mape": "0.3695037"
+        },
+        {
+          "time": "1501113600",
+          "gp_plant_pl_mape": "0.5510493"
+        },
+        {
+          "time": "1501200000",
+          "gp_plant_pl_mape": "0.1989439"
+        },
+        {
+          "time": "1501286400",
+          "gp_plant_pl_mape": "0.252461"
+        },
+        {
+          "time": "1501372800",
+          "gp_plant_pl_mape": "0.1702622"
+        },
+        {
+          "time": "1501459200",
+          "gp_plant_pl_mape": "0.1663623"
+        },
+        {
+          "time": "1501632000",
+          "gp_plant_pl_mape": "0.1725789"
+        },
+        {
+          "time": "1501891200",
+          "gp_plant_pl_mape": "0.4705637"
+        },
+        {
+          "time": "1501977600",
+          "gp_plant_pl_mape": "0.1357646"
+        },
+        {
+          "time": "1502064000",
+          "gp_plant_pl_mape": "0.171879"
+        },
+        {
+          "time": "1502150400",
+          "gp_plant_pl_mape": "0.1203714"
+        },
+        {
+          "time": "1502236800",
+          "gp_plant_pl_mape": "0.3096666"
+        },
+        {
+          "time": "1502409600",
+          "gp_plant_pl_mape": "0.2314462"
+        },
+        {
+          "time": "1502496000",
+          "gp_plant_pl_mape": "0.206881"
+        },
+        {
+          "time": "1502582400",
+          "gp_plant_pl_mape": "0.1013295"
+        },
+        {
+          "time": "1502668800",
+          "gp_plant_pl_mape": "0.262174"
+        },
+        {
+          "time": "1502755200",
+          "gp_plant_pl_mape": "0.2683852"
+        },
+        {
+          "time": "1502841600",
+          "gp_plant_pl_mape": "0.3012869"
+        },
+        {
+          "time": "1502928000",
+          "gp_plant_pl_mape": "0.2627394"
+        },
+        {
+          "time": "1503014400",
+          "gp_plant_pl_mape": "0.4686798"
+        },
+        {
+          "time": "1503100800",
+          "gp_plant_pl_mape": "0.2970157"
+        },
+        {
+          "time": "1503273600",
+          "gp_plant_pl_mape": "0.956797"
+        },
+        {
+          "time": "1503360000",
+          "gp_plant_pl_mape": "0.3221997"
+        },
+        {
+          "time": "1503446400",
+          "gp_plant_pl_mape": "0.2831226"
+        },
+        {
+          "time": "1503532800",
+          "gp_plant_pl_mape": "0.3593286"
+        },
+        {
+          "time": "1503619200",
+          "gp_plant_pl_mape": "0.3041712"
+        },
+        {
+          "time": "1503705600",
+          "gp_plant_pl_mape": "0.2475889"
+        },
+        {
+          "time": "1503792000",
+          "gp_plant_pl_mape": "0.4755531"
+        },
+        {
+          "time": "1503878400",
+          "gp_plant_pl_mape": "0.1189423"
+        },
+        {
+          "time": "1503964800",
+          "gp_plant_pl_mape": "0.1004494"
+        },
+        {
+          "time": "1504051200",
+          "gp_plant_pl_mape": "0.0769358"
+        },
+        {
+          "time": "1504137600",
+          "gp_plant_pl_mape": "0.2414758"
+        },
+        {
+          "time": "1504224000",
+          "gp_plant_pl_mape": "0.2656042"
+        },
+        {
+          "time": "1504569600",
+          "gp_plant_pl_mape": "0.1146314"
+        },
+        {
+          "time": "1504656000",
+          "gp_plant_pl_mape": "0.1351835"
+        },
+        {
+          "time": "1504828800",
+          "gp_plant_pl_mape": "0.1846235"
+        },
+        {
+          "time": "1504915200",
+          "gp_plant_pl_mape": "0.2621804"
+        },
+        {
+          "time": "1505001600",
+          "gp_plant_pl_mape": "0.010659058"
+        },
+        {
+          "time": "1505088000",
+          "gp_plant_pl_mape": "0.3222297"
+        },
+        {
+          "time": "1505174400",
+          "gp_plant_pl_mape": "0.4895574"
+        },
+        {
+          "time": "1505260800",
+          "gp_plant_pl_mape": "0.17979"
+        },
+        {
+          "time": "1505347200",
+          "gp_plant_pl_mape": "0.1492801"
+        },
+        {
+          "time": "1505433600",
+          "gp_plant_pl_mape": "0.1923502"
+        },
+        {
+          "time": "1505520000",
+          "gp_plant_pl_mape": "0.3365874"
+        },
+        {
+          "time": "1505606400",
+          "gp_plant_pl_mape": "0.1604167"
+        },
+        {
+          "time": "1505692800",
+          "gp_plant_pl_mape": "0.178247"
+        },
+        {
+          "time": "1505779200",
+          "gp_plant_pl_mape": "0.1608094"
+        },
+        {
+          "time": "1505865600",
+          "gp_plant_pl_mape": "0.1271868"
+        },
+        {
+          "time": "1505952000",
+          "gp_plant_pl_mape": "0.2211053"
+        },
+        {
+          "time": "1506038400",
+          "gp_plant_pl_mape": "0.4689792"
+        },
+        {
+          "time": "1506124800",
+          "gp_plant_pl_mape": "0.2086136"
+        },
+        {
+          "time": "1506211200",
+          "gp_plant_pl_mape": "0.1561746"
+        },
+        {
+          "time": "1506297600",
+          "gp_plant_pl_mape": "0.1764453"
+        },
+        {
+          "time": "1506384000",
+          "gp_plant_pl_mape": "0.1709034"
+        },
+        {
+          "time": "1506470400",
+          "gp_plant_pl_mape": "0.2740425"
+        },
+        {
+          "time": "1506556800",
+          "gp_plant_pl_mape": "0.1604456"
+        },
+        {
+          "time": "1506643200",
+          "gp_plant_pl_mape": "0.1253313"
+        },
+        {
+          "time": "1506729600",
+          "gp_plant_pl_mape": "0.1709794"
+        },
+        {
+          "time": "1506816000",
+          "gp_plant_pl_mape": "0.1340166"
+        },
+        {
+          "time": "1506902400",
+          "gp_plant_pl_mape": "0.2222316"
+        },
+        {
+          "time": "1506988800",
+          "gp_plant_pl_mape": "0.2429629"
+        },
+        {
+          "time": "1507075200",
+          "gp_plant_pl_mape": "0.1433794"
+        }
+      ],
+      "sample_chart_x_axis": {
+        "title": "Time",
+        "labelPosition": "center",
+        "orientation": "bottom"
+      },
+      "sample_chart_series_config": {
+        "firstSerie": {
+          "type": "line",
+          "name": "Serie1",
+          "xAxisUnit": "time",
+          "yAxisUnit": "gp_plant_pl_mape 10^-2",
+          "x": "time",
+          "y": "gp_plant_pl_mape"
+        }
+      }
+    }
+  },
+  {
+    "catalog_analytic_name": "Generator Vibration Shorted Turn Detection"
+  },
+  {
+    "catalog_analytic_name": "Flex Combustor Fuel Nozzle Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "96GN Failure Detection"
+  },
+  {
+    "catalog_analytic_name": "NOx Failure Root Cause Detection"
+  },
+  {
+    "catalog_analytic_name": "Power Change Detection"
+  },
+  {
+    "catalog_analytic_name": "LMS100 Engine Performance"
+  },
+  {
+    "catalog_analytic_name": "Combustion Dynamics Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Data Transfer from Historian to CBM"
+  },
+  {
+    "catalog_analytic_name": "Foreign Object Detection"
+  },
+  {
+    "catalog_analytic_name": "Static and Step Vibration Anomaly Detection for Generators"
+  },
+  {
+    "catalog_analytic_name": "Insulation Quality Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Bearing Wipe Detection"
+  },
+  {
+    "catalog_analytic_name": "Step Vibration Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Inlet Gas Vane Monitoring"
+  },
+  {
+    "catalog_analytic_name": "Variable Stator Vanes Monitoring"
+  },
+  {
+    "catalog_analytic_name": "Vibration Trend Monitoring"
+  },
+  {
+    "catalog_analytic_name": "Short-term Vibration Trend Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Bearing Metal Temperature Monitoring"
+  },
+  {
+    "catalog_analytic_name": "Vibration Monitoring for Generator"
+  },
+  {
+    "catalog_analytic_name": "Control Action Advisory"
+  },
+  {
+    "catalog_analytic_name": "Mission Profile Statistics"
+  },
+  {
+    "catalog_analytic_name": "Performance Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Static Vibration Monitoring"
+  },
+  {
+    "catalog_analytic_name": "Water Wash Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Extended Lean-lean Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Data Preparation for 3620 and Operational Data Caching"
+  },
+  {
+    "catalog_analytic_name": "Rotor Eccentricity at Roll Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Main Stop Valve Over-travel Detection"
+  },
+  {
+    "catalog_analytic_name": "Combustion Dynamics Low Tone Detection"
+  },
+  {
+    "catalog_analytic_name": "Performance Calculation"
+  },
+  {
+    "catalog_analytic_name": "Inlet Guide Vane Anomaly detection"
+  },
+  {
+    "catalog_analytic_name": "Shutdown Vibration Signature Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Blade Health Monitoring Clearance"
+  },
+  {
+    "catalog_analytic_name": "Data Transfer from Historian to SQL for Gas Turbine"
+  },
+  {
+    "catalog_analytic_name": "Startup and Shutdown Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Full Load Combustion Temperature Profile Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Mid-body Coupling Vibration Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Turbine Gearbox Generator Temperature Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Data Transfer from Historian to SQL for Steam Turbine"
+  },
+  {
+    "catalog_analytic_name": "Prognostic Flame Detector Sensor Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Channel Health Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "7F.05 Baseload Combustion Monitoring"
+  },
+  {
+    "catalog_analytic_name": "Offline Water Wash Monitoring"
+  },
+  {
+    "catalog_analytic_name": "Compressor Hardware Failure Detection"
+  },
+  {
+    "catalog_analytic_name": "Water Induction Detection"
+  },
+  {
+    "catalog_analytic_name": "GER-3620L Hot Gas Path FFH and FFS Calculations"
+  },
+  {
+    "catalog_analytic_name": "GCV Long Ignition Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Compressor Surge Prognostic"
+  },
+  {
+    "catalog_analytic_name": "Lean Blowout Detection"
+  },
+  {
+    "catalog_analytic_name": "Startup Vibration Profile Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "High Pressure Compressor Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Exciter Control Core Switchover Detection"
+  },
+  {
+    "catalog_analytic_name": "Steam Turbine Control Valve Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Autotune Model Mismatch Identification"
+  },
+  {
+    "catalog_analytic_name": "Compressor Inlet Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Vibration Distributed Power Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "T0 Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Turbine Room Temperature Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "1B Thrust Balance Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Startup Detection"
+  },
+  {
+    "catalog_analytic_name": "Lube Oil System Strut Crack Detection"
+  },
+  {
+    "catalog_analytic_name": "Gas Control Valve Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Common Reporting Module"
+  },
+  {
+    "catalog_analytic_name": "VBV Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Nox Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Prognostic Exhaust Thermocouple Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Power Projection Tool"
+  },
+  {
+    "catalog_analytic_name": "T25 Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Chip Detector Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Combustor Acoustics Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Engine Lube Oil Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Wheelspace Temperature Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Accumulative High Dynamics Monitoring"
+  },
+  {
+    "catalog_analytic_name": "P2 Pressure Test Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Engine Performance Tracking Analytic for LM2500"
+  },
+  {
+    "catalog_analytic_name": "Hydraulic and Electric Valve Fault Detection"
+  },
+  {
+    "catalog_analytic_name": "Runback Detection"
+  },
+  {
+    "catalog_analytic_name": "Data Transfer from Historian to Online CBM"
+  },
+  {
+    "catalog_analytic_name": "Compressor Blade Clearance Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Compressor Blade Frequency Detuning Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Compressor Blade Static Deflection Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Water Wash Monitoring"
+  },
+  {
+    "catalog_analytic_name": "CRMS Vibration Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Turbine Trip Diagnostics"
+  },
+  {
+    "catalog_analytic_name": "Generator Stator Temperature Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "H-Class Pyrometer Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "450H Frame Vibration Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Generator Bearings Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Trip Reminder"
+  },
+  {
+    "catalog_analytic_name": "Gas Turbine Central Trip Detection"
+  },
+  {
+    "catalog_analytic_name": "Steam Turbine Vibration Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Axial Expansion Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Gas Turbine Operational Mode Calculation"
+  },
+  {
+    "catalog_analytic_name": "High Pressure Steam Temperature Suppression Severity Detection"
+  },
+  {
+    "catalog_analytic_name": "Valve Stem Steam Erosion Severity Detection"
+  },
+  {
+    "catalog_analytic_name": "Bearing Metal Temperature Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Startup Vibration Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Shutdown Vibration Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Long-term Vibration Trend Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Performance Calculation 2"
+  },
+  {
+    "catalog_analytic_name": "GE Thermal Advantage Analytic Output Aggregation"
+  },
+  {
+    "catalog_analytic_name": "Non-uniform Temperature Condition Detection"
+  },
+  {
+    "catalog_analytic_name": "Full Load Combustion Temperature Profile Anomaly Detection Trigger"
+  },
+  {
+    "catalog_analytic_name": "Accumulative High Dynamics Trigger"
+  },
+  {
+    "catalog_analytic_name": "Controller Panel 125VDC Under Voltage & Ground Voltage Anomaly Detection"
+  },
+  {
+    "catalog_analytic_name": "Hazardous Gas Leakage Detection"
+  },
+  {
+    "catalog_analytic_name": "Compressor Pressure Discharge TMR Drift Detection"
+  },
+  {
+    "catalog_analytic_name": "Corrected Performance Monitoring"
+  },
+  {
+    "catalog_analytic_name": "Exception Trigger Rule"
+  },
+  {
+    "catalog_analytic_name": "6FA Combustion Monitoring"
+  },
+  {
+    "catalog_analytic_name": "Exciter Control Core Switchover and LAN Failure Detection"
+  },
+  {
+    "catalog_analytic_name": "6B Load Coupling Failure Detection"
+  },
+  {
+    "catalog_analytic_name": "Shutdown Detection"
+  },
+  {
+    "catalog_analytic_name": "Inlet Filter Monitoring"
+  },
+  {
+    "catalog_analytic_name": "GE Thermal Advantage Analytic Output Processing"
+  },
+  {
+    "catalog_analytic_name": "Compressor Surge Detection"
+  },
+  {
+    "catalog_analytic_name": "Performance Degradation Monitoring"
+  },
+  {
+    "catalog_analytic_name": "Block Start Feature Calculations"
+  },
+  {
+    "catalog_analytic_name": "Daily Average Thermal Performance Calculation"
+  },
+  {
+    "catalog_analytic_name": "Startup Detection and Statistics Calculation"
+  },
+  {
+    "catalog_analytic_name": "Starts, Hours, Trips Data Sanitization"
+  },
+  {
+    "catalog_analytic_name": "Combustion Aft-Casing Crack Monitoring"
+  },
+  {
+    "catalog_analytic_name": "Local Fuel Transfer Event Analytic Output Data Processing"
+  },
+  {
+    "catalog_analytic_name": "Combustion Monitoring"
+  },
+  {
+    "catalog_analytic_name": "6FA Combustion Monitoring Alarm Trigger"
+  },
+  {
+    "catalog_analytic_name": "Engine Performance Tracking Analytic for LM6000"
+  }
+]

@@ -1,0 +1,510 @@
+[
+  {
+    "catalog_analytic_name": "Continuous Performance Forecasting",
+    "confidence_level": 95
+  },
+  {
+    "catalog_analytic_name": "Generator Vibration Shorted Turn Detection",
+    "confidence_level": 87
+  },
+  {
+    "catalog_analytic_name": "Flex Combustor Fuel Nozzle Anomaly Detection",
+    "confidence_level": 80
+  },
+  {
+    "catalog_analytic_name": "96GN Failure Detection",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "NOx Failure Root Cause Detection",
+    "confidence_level": 88
+  },
+  {
+    "catalog_analytic_name": "Power Change Detection",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "LMS100 Engine Performance",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Combustion Dynamics Anomaly Detection",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Data Transfer from Historian to CBM",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Foreign Object Detection",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Static and Step Vibration Anomaly Detection for Generators",
+    "confidence_level": 80
+  },
+  {
+    "catalog_analytic_name": "Insulation Quality Anomaly Detection",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Bearing Wipe Detection",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Step Vibration Anomaly Detection",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Inlet Gas Vane Monitoring",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Variable Stator Vanes Monitoring",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Vibration Trend Monitoring",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Short-term Vibration Trend Anomaly Detection",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Bearing Metal Temperature Monitoring",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Vibration Monitoring for Generator",
+    "confidence_level": 88
+  },
+  {
+    "catalog_analytic_name": "Control Action Advisory",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Mission Profile Statistics",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Performance Anomaly Detection",
+    "confidence_level": 87
+  },
+  {
+    "catalog_analytic_name": "Static Vibration Monitoring",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Water Wash Anomaly Detection",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Extended Lean-lean Anomaly Detection",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Data Preparation for 3620 and Operational Data Caching",
+    "confidence_level": 88
+  },
+  {
+    "catalog_analytic_name": "Rotor Eccentricity at Roll Anomaly Detection",
+    "confidence_level": 81
+  },
+  {
+    "catalog_analytic_name": "Main Stop Valve Over-travel Detection",
+    "confidence_level": 89
+  },
+  {
+    "catalog_analytic_name": "Combustion Dynamics Low Tone Detection",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Performance Calculation",
+    "confidence_level": 80
+  },
+  {
+    "catalog_analytic_name": "Inlet Guide Vane Anomaly detection",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Shutdown Vibration Signature Anomaly Detection",
+    "confidence_level": 85
+  },
+  {
+    "catalog_analytic_name": "Blade Health Monitoring Clearance",
+    "confidence_level": 86
+  },
+  {
+    "catalog_analytic_name": "Data Transfer from Historian to SQL for Gas Turbine",
+    "confidence_level": 85
+  },
+  {
+    "catalog_analytic_name": "Startup and Shutdown Anomaly Detection",
+    "confidence_level": 86
+  },
+  {
+    "catalog_analytic_name": "Full Load Combustion Temperature Profile Anomaly Detection",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Mid-body Coupling Vibration Anomaly Detection",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Turbine Gearbox Generator Temperature Anomaly Detection",
+    "confidence_level": 87
+  },
+  {
+    "catalog_analytic_name": "Data Transfer from Historian to SQL for Steam Turbine",
+    "confidence_level": 86
+  },
+  {
+    "catalog_analytic_name": "Prognostic Flame Detector Sensor Anomaly Detection",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Channel Health Anomaly Detection",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "7F.05 Baseload Combustion Monitoring",
+    "confidence_level": 80
+  },
+  {
+    "catalog_analytic_name": "Offline Water Wash Monitoring",
+    "confidence_level": 85
+  },
+  {
+    "catalog_analytic_name": "Compressor Hardware Failure Detection",
+    "confidence_level": 81
+  },
+  {
+    "catalog_analytic_name": "Water Induction Detection",
+    "confidence_level": 86
+  },
+  {
+    "catalog_analytic_name": "GER-3620L Hot Gas Path FFH and FFS Calculations",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "GCV Long Ignition Anomaly Detection",
+    "confidence_level": 86
+  },
+  {
+    "catalog_analytic_name": "Compressor Surge Prognostic",
+    "confidence_level": 80
+  },
+  {
+    "catalog_analytic_name": "Lean Blowout Detection",
+    "confidence_level": 87
+  },
+  {
+    "catalog_analytic_name": "Startup Vibration Profile Anomaly Detection",
+    "confidence_level": 89
+  },
+  {
+    "catalog_analytic_name": "High Pressure Compressor Anomaly Detection",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Exciter Control Core Switchover Detection",
+    "confidence_level": 86
+  },
+  {
+    "catalog_analytic_name": "Steam Turbine Control Valve Anomaly Detection",
+    "confidence_level": 80
+  },
+  {
+    "catalog_analytic_name": "Autotune Model Mismatch Identification",
+    "confidence_level": 88
+  },
+  {
+    "catalog_analytic_name": "Compressor Inlet Anomaly Detection",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Vibration Distributed Power Anomaly Detection",
+    "confidence_level": 81
+  },
+  {
+    "catalog_analytic_name": "T0 Anomaly Detection",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Turbine Room Temperature Anomaly Detection",
+    "confidence_level": 85
+  },
+  {
+    "catalog_analytic_name": "1B Thrust Balance Anomaly Detection",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Startup Detection",
+    "confidence_level": 80
+  },
+  {
+    "catalog_analytic_name": "Lube Oil System Strut Crack Detection",
+    "confidence_level": 85
+  },
+  {
+    "catalog_analytic_name": "Gas Control Valve Anomaly Detection",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Common Reporting Module",
+    "confidence_level": 85
+  },
+  {
+    "catalog_analytic_name": "VBV Anomaly Detection",
+    "confidence_level": 85
+  },
+  {
+    "catalog_analytic_name": "Nox Anomaly Detection",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Prognostic Exhaust Thermocouple Anomaly Detection",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Power Projection Tool",
+    "confidence_level": 88
+  },
+  {
+    "catalog_analytic_name": "T25 Anomaly Detection",
+    "confidence_level": 89
+  },
+  {
+    "catalog_analytic_name": "Chip Detector Anomaly Detection",
+    "confidence_level": 87
+  },
+  {
+    "catalog_analytic_name": "Combustor Acoustics Anomaly Detection",
+    "confidence_level": 81
+  },
+  {
+    "catalog_analytic_name": "Engine Lube Oil Anomaly Detection",
+    "confidence_level": 80
+  },
+  {
+    "catalog_analytic_name": "Wheelspace Temperature Anomaly Detection",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Accumulative High Dynamics Monitoring",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "P2 Pressure Test Anomaly Detection",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Engine Performance Tracking Analytic for LM2500",
+    "confidence_level": 85
+  },
+  {
+    "catalog_analytic_name": "Hydraulic and Electric Valve Fault Detection",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Runback Detection",
+    "confidence_level": 88
+  },
+  {
+    "catalog_analytic_name": "Data Transfer from Historian to Online CBM",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Compressor Blade Clearance Anomaly Detection",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Compressor Blade Frequency Detuning Anomaly Detection",
+    "confidence_level": 88
+  },
+  {
+    "catalog_analytic_name": "Compressor Blade Static Deflection Anomaly Detection",
+    "confidence_level": 80
+  },
+  {
+    "catalog_analytic_name": "Water Wash Monitoring",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "CRMS Vibration Anomaly Detection",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Turbine Trip Diagnostics",
+    "confidence_level": 85
+  },
+  {
+    "catalog_analytic_name": "Generator Stator Temperature Anomaly Detection",
+    "confidence_level": 81
+  },
+  {
+    "catalog_analytic_name": "H-Class Pyrometer Anomaly Detection",
+    "confidence_level": 87
+  },
+  {
+    "catalog_analytic_name": "450H Frame Vibration Anomaly Detection",
+    "confidence_level": 89
+  },
+  {
+    "catalog_analytic_name": "Generator Bearings Anomaly Detection",
+    "confidence_level": 85
+  },
+  {
+    "catalog_analytic_name": "Trip Reminder",
+    "confidence_level": 80
+  },
+  {
+    "catalog_analytic_name": "Gas Turbine Central Trip Detection",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Steam Turbine Vibration Anomaly Detection",
+    "confidence_level": 86
+  },
+  {
+    "catalog_analytic_name": "Axial Expansion Anomaly Detection",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Gas Turbine Operational Mode Calculation",
+    "confidence_level": 80
+  },
+  {
+    "catalog_analytic_name": "High Pressure Steam Temperature Suppression Severity Detection",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Valve Stem Steam Erosion Severity Detection",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Bearing Metal Temperature Anomaly Detection",
+    "confidence_level": 87
+  },
+  {
+    "catalog_analytic_name": "Startup Vibration Anomaly Detection",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Shutdown Vibration Anomaly Detection",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Long-term Vibration Trend Anomaly Detection",
+    "confidence_level": 89
+  },
+  {
+    "catalog_analytic_name": "Performance Calculation 2",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "GE Thermal Advantage Analytic Output Aggregation",
+    "confidence_level": 86
+  },
+  {
+    "catalog_analytic_name": "Non-uniform Temperature Condition Detection",
+    "confidence_level": 80
+  },
+  {
+    "catalog_analytic_name": "Full Load Combustion Temperature Profile Anomaly Detection Trigger",
+    "confidence_level": 80
+  },
+  {
+    "catalog_analytic_name": "Accumulative High Dynamics Trigger",
+    "confidence_level": 89
+  },
+  {
+    "catalog_analytic_name": "Controller Panel 125VDC Under Voltage & Ground Voltage Anomaly Detection",
+    "confidence_level": 87
+  },
+  {
+    "catalog_analytic_name": "Hazardous Gas Leakage Detection",
+    "confidence_level": 87
+  },
+  {
+    "catalog_analytic_name": "Compressor Pressure Discharge TMR Drift Detection",
+    "confidence_level": 86
+  },
+  {
+    "catalog_analytic_name": "Corrected Performance Monitoring",
+    "confidence_level": 81
+  },
+  {
+    "catalog_analytic_name": "Exception Trigger Rule",
+    "confidence_level": 89
+  },
+  {
+    "catalog_analytic_name": "6FA Combustion Monitoring",
+    "confidence_level": 88
+  },
+  {
+    "catalog_analytic_name": "Exciter Control Core Switchover and LAN Failure Detection",
+    "confidence_level": 87
+  },
+  {
+    "catalog_analytic_name": "6B Load Coupling Failure Detection",
+    "confidence_level": 85
+  },
+  {
+    "catalog_analytic_name": "Shutdown Detection",
+    "confidence_level": 89
+  },
+  {
+    "catalog_analytic_name": "Inlet Filter Monitoring",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "GE Thermal Advantage Analytic Output Processing",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Compressor Surge Detection",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Performance Degradation Monitoring",
+    "confidence_level": 80
+  },
+  {
+    "catalog_analytic_name": "Block Start Feature Calculations",
+    "confidence_level": 89
+  },
+  {
+    "catalog_analytic_name": "Daily Average Thermal Performance Calculation",
+    "confidence_level": 89
+  },
+  {
+    "catalog_analytic_name": "Startup Detection and Statistics Calculation",
+    "confidence_level": 89
+  },
+  {
+    "catalog_analytic_name": "Starts, Hours, Trips Data Sanitization",
+    "confidence_level": 88
+  },
+  {
+    "catalog_analytic_name": "Combustion Aft-Casing Crack Monitoring",
+    "confidence_level": 86
+  },
+  {
+    "catalog_analytic_name": "Local Fuel Transfer Event Analytic Output Data Processing",
+    "confidence_level": 86
+  },
+  {
+    "catalog_analytic_name": "Combustion Monitoring",
+    "confidence_level": 86
+  },
+  {
+    "catalog_analytic_name": "6FA Combustion Monitoring Alarm Trigger",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Engine Performance Tracking Analytic for LM6000",
+    "confidence_level": 82
+  }
+]

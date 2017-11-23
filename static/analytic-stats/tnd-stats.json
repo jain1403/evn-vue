@@ -1,0 +1,126 @@
+[
+  {
+    "catalog_analytic_name": "Power Transformer Health & Maintenance Index",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Thermal Electric Model Tag 1",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Thermal Electric Model Tag 2",
+    "confidence_level": 86
+  },
+  {
+    "catalog_analytic_name": "Thermal Electric Model Tag 3",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Transformer - High Core Temperature",
+    "confidence_level": 89
+  },
+  {
+    "catalog_analytic_name": "Transformer - High HotSpot Winding Rise",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Transformer - High Primary Stator Winding Rise",
+    "confidence_level": 88
+  },
+  {
+    "catalog_analytic_name": "Transformer - High Secondary Stator Winding Rise",
+    "confidence_level": 89
+  },
+  {
+    "catalog_analytic_name": "Transformer - Primary Current Phase Imbalance",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Transformer - Primary VA Phase Imbalance",
+    "confidence_level": 89
+  },
+  {
+    "catalog_analytic_name": "Transformer - Primary Voltage Phase Imbalance",
+    "confidence_level": 85
+  },
+  {
+    "catalog_analytic_name": "Transformer - Secondary Current Phase Imbalance",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Transformer - Secondary VA Phase Imbalance",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Transformer - Secondary Voltage Phase Imbalance",
+    "confidence_level": 88
+  },
+  {
+    "catalog_analytic_name": "Transformer Oil - Quality Problem",
+    "confidence_level": 88
+  },
+  {
+    "catalog_analytic_name": "Transformer Oil - Tank Problem",
+    "confidence_level": 81
+  },
+  {
+    "catalog_analytic_name": "Transformer - Sensor Problem",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Transformer - Primary Winding Sensor Problem",
+    "confidence_level": 88
+  },
+  {
+    "catalog_analytic_name": "Transformer - Secondary Winding Sensor Problem",
+    "confidence_level": 83
+  },
+  {
+    "catalog_analytic_name": "Transformer - Frequency Problem",
+    "confidence_level": 81
+  },
+  {
+    "catalog_analytic_name": "Transformer Oil - Cooling Problem",
+    "confidence_level": 80
+  },
+  {
+    "catalog_analytic_name": "Transformer Gasing - Hydrogen",
+    "confidence_level": 85
+  },
+  {
+    "catalog_analytic_name": "Transformer Gasing - Methane",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Transformer Gasing - Acetylene",
+    "confidence_level": 84
+  },
+  {
+    "catalog_analytic_name": "Transformer Gasing - Ethylene",
+    "confidence_level": 82
+  },
+  {
+    "catalog_analytic_name": "Transformer Gasing - Ethane",
+    "confidence_level": 81
+  },
+  {
+    "catalog_analytic_name": "Transformer Gasing - Carbon Monoxide",
+    "confidence_level": 86
+  },
+  {
+    "catalog_analytic_name": "Transformer Gasing - Carbon Dioxide",
+    "confidence_level": 80
+  },
+  {
+    "catalog_analytic_name": "Transformer Gasing - Oyxgen",
+    "confidence_level": 87
+  },
+  {
+    "catalog_analytic_name": "Transformer Gasing - Total Combustible Gas Formation",
+    "confidence_level": 89
+  },
+  {
+    "catalog_analytic_name": "Transformer Gasing - Rogers Ratios",
+    "confidence_level": 87
+  }
+]

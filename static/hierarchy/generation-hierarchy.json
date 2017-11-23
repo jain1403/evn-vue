@@ -1,0 +1,914 @@
+[
+  {
+    "id": "coal",
+    "label": "COAL",
+    "children": [
+      {
+        "id": "steam turbine",
+        "label": "STEAM TURBINE",
+        "children": [
+          {
+            "id": "high pressure turbine",
+            "label": "HIGH PRESSURE TURBINE",
+            "children": [
+              {
+                "id": "high pressure turbine",
+                "label": "HIGH PRESSURE TURBINE"
+              }
+            ]
+          },
+          {
+            "id": "intermediate pressure turbine",
+            "label": "INTERMEDIATE PRESSURE TURBINE"
+          },
+          {
+            "id": "low pressure turbine",
+            "label": "LOW PRESSURE TURBINE"
+          },
+          {
+            "id": "valves",
+            "label": "VALVES"
+          }
+        ]
+      },
+      {
+        "id": "boiler",
+        "label": "BOILER",
+        "children": [
+          {
+            "id": "fuel supply to bunker",
+            "label": "FUEL SUPPLY TO BUNKER"
+          },
+          {
+            "id": "fuel supply from bunkers to boiler",
+            "label": "FUEL SUPPLY FROM BUNKERS TO BOILER"
+          },
+          {
+            "id": "piping system",
+            "label": "PIPING SYSTEM"
+          },
+          {
+            "id": "internals and structures",
+            "label": "INTERNALS AND STRUCTURES"
+          }
+        ]
+      },
+      {
+        "id": "balance of plant",
+        "label": "BALANCE OF PLANT",
+        "children": [
+          {
+            "id": "condensing system",
+            "label": "CONDENSING SYSTEM"
+          },
+          {
+            "id": "circulating water systems",
+            "label": "CIRCULATING WATER SYSTEMS"
+          },
+          {
+            "id": "waste water (zero discharge)",
+            "label": "WASTE WATER (ZERO DISCHARGE)"
+          },
+          {
+            "id": "condensate system",
+            "label": "CONDENSATE SYSTEM"
+          }
+        ]
+      },
+      {
+        "id": "generator",
+        "label": "GENERATOR",
+        "children": [
+          {
+            "id": "generator",
+            "label": "GENERATOR"
+          },
+          {
+            "id": "exciter",
+            "label": "EXCITER"
+          },
+          {
+            "id": "cooling system",
+            "label": "COOLING SYSTEM"
+          },
+          {
+            "id": "controls",
+            "label": "CONTROLS"
+          }
+        ]
+      },
+      {
+        "id": "pollution control equipment",
+        "label": "POLLUTION CONTROL EQUIPMENT",
+        "children": [
+          {
+            "id": "wet scrubbers",
+            "label": "WET SCRUBBERS"
+          },
+          {
+            "id": "dry scrubbers",
+            "label": "DRY SCRUBBERS"
+          },
+          {
+            "id": "precipitators",
+            "label": "PRECIPITATORS"
+          },
+          {
+            "id": "miscellaneous",
+            "label": "MISCELLANEOUS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "gas",
+    "label": "GAS",
+    "children": [
+      {
+        "id": "gas turbine",
+        "label": "GAS TURBINE",
+        "children": [
+          {
+            "id": "inlet air system and compressors",
+            "label": "INLET AIR SYSTEM AND COMPRESSORS",
+            "children": [
+              {
+                "id": "ducts and filters",
+                "label": "DUCTS AND FILTERS"
+              },
+              {
+                "id": "compressors",
+                "label": "COMPRESSORS"
+              }
+            ]
+          },
+          {
+            "id": "fuel, ignition, and combustion systems",
+            "label": "FUEL, IGNITION, AND COMBUSTION SYSTEMS",
+            "children": [
+              {
+                "id": "fuel, ignition, and combustion system",
+                "label": "FUEL, IGNITION, AND COMBUSTION SYSTEM"
+              }
+            ]
+          },
+          {
+            "id": "turbines",
+            "label": "TURBINES",
+            "children": [
+              {
+                "id": "turbine",
+                "label": "TURBINE"
+              }
+            ]
+          },
+          {
+            "id": "exhaust systems",
+            "label": "EXHAUST SYSTEMS",
+            "children": [
+              {
+                "id": "exhaust system",
+                "label": "EXHAUST SYSTEM"
+              }
+            ]
+          },
+          {
+            "id": "auxiliary systems",
+            "label": "AUXILIARY SYSTEMS",
+            "children": [
+              {
+                "id": "auxiliary system",
+                "label": "AUXILIARY SYSTEM"
+              }
+            ]
+          },
+          {
+            "id": "miscellaneous (gas turbine)",
+            "label": "MISCELLANEOUS (GAS TURBINE)",
+            "children": [
+              {
+                "id": "miscellaneous (gas turbines)",
+                "label": "MISCELLANEOUS (GAS TURBINES)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "aero engine",
+        "label": "AERO ENGINE",
+        "children": [
+          {
+            "id": "inlet air system and compressors",
+            "label": "INLET AIR SYSTEM AND COMPRESSORS",
+            "children": [
+              {
+                "id": "ducts and filters",
+                "label": "DUCTS AND FILTERS"
+              },
+              {
+                "id": "compressors",
+                "label": "COMPRESSORS"
+              }
+            ]
+          },
+          {
+            "id": "fuel, ignition, and combustion systems",
+            "label": "FUEL, IGNITION, AND COMBUSTION SYSTEMS",
+            "children": [
+              {
+                "id": "fuel, ignition, and combustion systems",
+                "label": "FUEL, IGNITION, AND COMBUSTION SYSTEMS"
+              }
+            ]
+          },
+          {
+            "id": "turbine",
+            "label": "TURBINE",
+            "children": [
+              {
+                "id": "turbine",
+                "label": "TURBINE"
+              }
+            ]
+          },
+          {
+            "id": "exhaust systems",
+            "label": "EXHAUST SYSTEMS",
+            "children": [
+              {
+                "id": "exhaust systems",
+                "label": "EXHAUST SYSTEMS"
+              }
+            ]
+          },
+          {
+            "id": "auxiliary systems",
+            "label": "AUXILIARY SYSTEMS",
+            "children": [
+              {
+                "id": "auxiliary systems",
+                "label": "AUXILIARY SYSTEMS"
+              }
+            ]
+          },
+          {
+            "id": "miscellaneous (aero engine)",
+            "label": "MISCELLANEOUS (AERO ENGINE)",
+            "children": [
+              {
+                "id": "miscellaneous (aero engine)",
+                "label": "MISCELLANEOUS (AERO ENGINE)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "miscellaneous",
+        "label": "MISCELLANEOUS",
+        "children": [
+          {
+            "id": "instrument and control",
+            "label": "INSTRUMENT AND CONTROL",
+            "children": [
+              {
+                "id": "instrument and control",
+                "label": "INSTRUMENT AND CONTROL"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "steam turbine",
+        "label": "STEAM TURBINE",
+        "children": [
+          {
+            "id": "controls",
+            "label": "CONTROLS",
+            "children": [
+              {
+                "id": "controls",
+                "label": "CONTROLS"
+              }
+            ]
+          },
+          {
+            "id": "high pressure turbine",
+            "label": "HIGH PRESSURE TURBINE",
+            "children": [
+              {
+                "id": "high pressure turbine",
+                "label": "HIGH PRESSURE TURBINE"
+              }
+            ]
+          },
+          {
+            "id": "intermediate pressure turbine",
+            "label": "INTERMEDIATE PRESSURE TURBINE",
+            "children": [
+              {
+                "id": "intermediate pressure turbine",
+                "label": "INTERMEDIATE PRESSURE TURBINE"
+              }
+            ]
+          },
+          {
+            "id": "low pressure turbine",
+            "label": "LOW PRESSURE TURBINE",
+            "children": [
+              {
+                "id": "low pressure turbine",
+                "label": "LOW PRESSURE TURBINE"
+              }
+            ]
+          },
+          {
+            "id": "lube oil",
+            "label": "LUBE OIL",
+            "children": [
+              {
+                "id": "lube oil",
+                "label": "LUBE OIL"
+              }
+            ]
+          },
+          {
+            "id": "miscellaneous (steam turbine)",
+            "label": "MISCELLANEOUS (STEAM TURBINE)",
+            "children": [
+              {
+                "id": "miscellaneous (steam turbine)",
+                "label": "MISCELLANEOUS (STEAM TURBINE)"
+              }
+            ]
+          },
+          {
+            "id": "piping",
+            "label": "PIPING",
+            "children": [
+              {
+                "id": "piping",
+                "label": "PIPING"
+              }
+            ]
+          },
+          {
+            "id": "valves",
+            "label": "VALVES",
+            "children": [
+              {
+                "id": "valves",
+                "label": "VALVES"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "generator",
+        "label": "GENERATOR",
+        "children": [
+          {
+            "id": "generator",
+            "label": "GENERATOR",
+            "children": [
+              {
+                "id": "generator",
+                "label": "GENERATOR"
+              }
+            ]
+          },
+          {
+            "id": "exciter",
+            "label": "EXCITER",
+            "children": [
+              {
+                "id": "exciter",
+                "label": "EXCITER"
+              }
+            ]
+          },
+          {
+            "id": "cooling system",
+            "label": "COOLING SYSTEM",
+            "children": [
+              {
+                "id": "cooling system",
+                "label": "COOLING SYSTEM"
+              }
+            ]
+          },
+          {
+            "id": "controls",
+            "label": "CONTROLS",
+            "children": [
+              {
+                "id": "controls",
+                "label": "CONTROLS"
+              }
+            ]
+          },
+          {
+            "id": "miscellaneous (generator)",
+            "label": "MISCELLANEOUS (GENERATOR)",
+            "children": [
+              {
+                "id": "miscellaneous (generator)",
+                "label": "MISCELLANEOUS (GENERATOR)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "hrsg boiler",
+        "label": "HRSG BOILER",
+        "children": [
+          {
+            "id": "hrsg boiler fuel supply",
+            "label": "HRSG BOILER FUEL SUPPLY",
+            "children": [
+              {
+                "id": "solid fuel feed equipment from bunkers to boiler (fbc only)",
+                "label": "SOLID FUEL FEED EQUIPMENT FROM BUNKERS TO BOILER (FBC ONLY)"
+              },
+              {
+                "id": "burners (duct burners)",
+                "label": "BURNERS (DUCT BURNERS)"
+              },
+              {
+                "id": "oil and gas systems (except light-off)",
+                "label": "OIL AND GAS SYSTEMS (EXCEPT LIGHT-OFF)"
+              }
+            ]
+          },
+          {
+            "id": "hrsg boiler piping system",
+            "label": "HRSG BOILER PIPING SYSTEM",
+            "children": [
+              {
+                "id": "desuperheaters/attemperators (steam system/hrsg)",
+                "label": "DESUPERHEATERS/ATTEMPERATORS (STEAM SYSTEM/HRSG)"
+              },
+              {
+                "id": "hrsg main steam",
+                "label": "HRSG MAIN STEAM"
+              },
+              {
+                "id": "hrsg cold and hot reheat steam",
+                "label": "HRSG COLD AND HOT REHEAT STEAM"
+              },
+              {
+                "id": "hrsg startup bypass",
+                "label": "HRSG STARTUP BYPASS"
+              },
+              {
+                "id": "feedwater and blowdown",
+                "label": "FEEDWATER AND BLOWDOWN"
+              },
+              {
+                "id": "boiler recirculation",
+                "label": "BOILER RECIRCULATION"
+              },
+              {
+                "id": "miscellaneous (piping)",
+                "label": "MISCELLANEOUS (PIPING)"
+              }
+            ]
+          },
+          {
+            "id": "hrsg boiler internals and structures",
+            "label": "HRSG BOILER INTERNALS AND STRUCTURES",
+            "children": [
+              {
+                "id": "hrsg boiler internals and structures",
+                "label": "HRSG BOILER INTERNALS AND STRUCTURES"
+              }
+            ]
+          },
+          {
+            "id": "hrsg boiler tube leaks",
+            "label": "HRSG BOILER TUBE LEAKS",
+            "children": [
+              {
+                "id": "hrsg boiler tube leaks",
+                "label": "HRSG BOILER TUBE LEAKS"
+              }
+            ]
+          },
+          {
+            "id": "miscellaneous hrsg boiler tube problems",
+            "label": "MISCELLANEOUS HRSG BOILER TUBE PROBLEMS",
+            "children": [
+              {
+                "id": "miscellaneous hrsg boiler tube problems",
+                "label": "MISCELLANEOUS HRSG BOILER TUBE PROBLEMS"
+              },
+              {
+                "id": "air supply",
+                "label": "AIR SUPPLY"
+              },
+              {
+                "id": "miscellaneous (boiler air and gas systems)",
+                "label": "MISCELLANEOUS (BOILER AIR AND GAS SYSTEMS)"
+              }
+            ]
+          },
+          {
+            "id": "hrsg boiler control systems",
+            "label": "HRSG BOILER CONTROL SYSTEMS",
+            "children": [
+              {
+                "id": "hrsg boiler control systems",
+                "label": "HRSG BOILER CONTROL SYSTEMS"
+              }
+            ]
+          },
+          {
+            "id": "hrsg boiler overhaul and inspections",
+            "label": "HRSG BOILER OVERHAUL AND INSPECTIONS",
+            "children": [
+              {
+                "id": "hrsg boiler overhaul and inspections",
+                "label": "HRSG BOILER OVERHAUL AND INSPECTIONS"
+              }
+            ]
+          },
+          {
+            "id": "hrsg boiler water condition",
+            "label": "HRSG BOILER WATER CONDITION",
+            "children": [
+              {
+                "id": "hrsg boiler water condition",
+                "label": "HRSG BOILER WATER CONDITION"
+              }
+            ]
+          },
+          {
+            "id": "hrsg boiler design limitations",
+            "label": "HRSG BOILER DESIGN LIMITATIONS",
+            "children": [
+              {
+                "id": "hrsg boiler design limitations",
+                "label": "HRSG BOILER DESIGN LIMITATIONS"
+              }
+            ]
+          },
+          {
+            "id": "miscellaneous (boiler)",
+            "label": "MISCELLANEOUS (BOILER)",
+            "children": [
+              {
+                "id": "miscellaneous (boiler)",
+                "label": "MISCELLANEOUS (BOILER)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "balance of plant",
+        "label": "BALANCE OF PLANT",
+        "children": [
+          {
+            "id": "condensing system",
+            "label": "CONDENSING SYSTEM",
+            "children": [
+              {
+                "id": "condenser tubes",
+                "label": "CONDENSER TUBES"
+              },
+              {
+                "id": "condenser casing or shell and internals",
+                "label": "CONDENSER CASING OR SHELL AND INTERNALS"
+              },
+              {
+                "id": "vacuum equipment",
+                "label": "VACUUM EQUIPMENT"
+              },
+              {
+                "id": "condenser controls",
+                "label": "CONDENSER CONTROLS"
+              },
+              {
+                "id": "miscellaneous (condensing system)",
+                "label": "MISCELLANEOUS (CONDENSING SYSTEM)"
+              }
+            ]
+          },
+          {
+            "id": "circulating water systems",
+            "label": "CIRCULATING WATER SYSTEMS",
+            "children": [
+              {
+                "id": "circulating water systems",
+                "label": "CIRCULATING WATER SYSTEMS"
+              }
+            ]
+          },
+          {
+            "id": "waste water (zero discharge) system",
+            "label": "WASTE WATER (ZERO DISCHARGE) SYSTEM",
+            "children": [
+              {
+                "id": "waste water (zero discharge) system",
+                "label": "WASTE WATER (ZERO DISCHARGE) SYSTEM"
+              }
+            ]
+          },
+          {
+            "id": "condensate system",
+            "label": "CONDENSATE SYSTEM",
+            "children": [
+              {
+                "id": "pumps, piping, and valves",
+                "label": "PUMPS, PIPING, AND VALVES"
+              },
+              {
+                "id": "low/intermediate pressure heater and deaerators",
+                "label": "LOW/INTERMEDIATE PRESSURE HEATER AND DEAERATORS"
+              },
+              {
+                "id": "polishers/chemical addition",
+                "label": "POLISHERS/CHEMICAL ADDITION"
+              },
+              {
+                "id": "miscellaneous (condensate system)",
+                "label": "MISCELLANEOUS (CONDENSATE SYSTEM)"
+              }
+            ]
+          },
+          {
+            "id": "feedwater system",
+            "label": "FEEDWATER SYSTEM",
+            "children": [
+              {
+                "id": "feedwater system",
+                "label": "FEEDWATER SYSTEM"
+              }
+            ]
+          },
+          {
+            "id": "heater drain systems",
+            "label": "HEATER DRAIN SYSTEMS",
+            "children": [
+              {
+                "id": "heater drain systems",
+                "label": "HEATER DRAIN SYSTEMS"
+              }
+            ]
+          },
+          {
+            "id": "extraction steam",
+            "label": "EXTRACTION STEAM",
+            "children": [
+              {
+                "id": "extraction steam",
+                "label": "EXTRACTION STEAM"
+              }
+            ]
+          },
+          {
+            "id": "electrical",
+            "label": "ELECTRICAL",
+            "children": [
+              {
+                "id": "electrical",
+                "label": "ELECTRICAL"
+              }
+            ]
+          },
+          {
+            "id": "power station switchyard",
+            "label": "POWER STATION SWITCHYARD",
+            "children": [
+              {
+                "id": "power station switchyard",
+                "label": "POWER STATION SWITCHYARD"
+              }
+            ]
+          },
+          {
+            "id": "auxiliary systems",
+            "label": "AUXILIARY SYSTEMS",
+            "children": [
+              {
+                "id": "auxiliary systems",
+                "label": "AUXILIARY SYSTEMS"
+              },
+              {
+                "id": "open cooling water system",
+                "label": "OPEN COOLING WATER SYSTEM"
+              },
+              {
+                "id": "service water (open system)",
+                "label": "SERVICE WATER (OPEN SYSTEM)"
+              },
+              {
+                "id": "closed cooling water systems",
+                "label": "CLOSED COOLING WATER SYSTEMS"
+              },
+              {
+                "id": "auxiliary steam",
+                "label": "AUXILIARY STEAM"
+              },
+              {
+                "id": "service air",
+                "label": "SERVICE AIR"
+              },
+              {
+                "id": "instrument air",
+                "label": "INSTRUMENT AIR"
+              },
+              {
+                "id": "fire protection system",
+                "label": "FIRE PROTECTION SYSTEM"
+              },
+              {
+                "id": "low-pressure gas compression system",
+                "label": "LOW-PRESSURE GAS COMPRESSION SYSTEM"
+              },
+              {
+                "id": "seal air fans",
+                "label": "SEAL AIR FANS"
+              },
+              {
+                "id": "miscellaneous (auxiliary systems)",
+                "label": "MISCELLANEOUS (AUXILIARY SYSTEMS)"
+              }
+            ]
+          },
+          {
+            "id": "miscellaneous (balance of plant)",
+            "label": "MISCELLANEOUS (BALANCE OF PLANT)",
+            "children": [
+              {
+                "id": "miscellaneous (balance of plant)",
+                "label": "MISCELLANEOUS (BALANCE OF PLANT)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "pollution control equipment",
+        "label": "POLLUTION CONTROL EQUIPMENT",
+        "children": [
+          {
+            "id": "continued emissions monitoring systems (cems)",
+            "label": "CONTINUED EMISSIONS MONITORING SYSTEMS (CEMS)",
+            "children": [
+              {
+                "id": "continued emissions monitoring systems (cems)",
+                "label": "CONTINUED EMISSIONS MONITORING SYSTEMS (CEMS)"
+              }
+            ]
+          },
+          {
+            "id": "nox reduction systems",
+            "label": "NOX REDUCTION SYSTEMS",
+            "children": [
+              {
+                "id": "selective non-catalytic reduction systems",
+                "label": "SELECTIVE NON-CATALYTIC REDUCTION SYSTEMS"
+              },
+              {
+                "id": "selective catalytic reduction systems",
+                "label": "SELECTIVE CATALYTIC REDUCTION SYSTEMS"
+              },
+              {
+                "id": "catalytic air heaters",
+                "label": "CATALYTIC AIR HEATERS"
+              }
+            ]
+          },
+          {
+            "id": "co reduction",
+            "label": "CO REDUCTION",
+            "children": [
+              {
+                "id": "co reduction",
+                "label": "CO REDUCTION"
+              }
+            ]
+          },
+          {
+            "id": "miscellaneous (pollution control equipment)",
+            "label": "MISCELLANEOUS (POLLUTION CONTROL EQUIPMENT)",
+            "children": [
+              {
+                "id": "miscellaneous (pollution control equipment)",
+                "label": "MISCELLANEOUS (POLLUTION CONTROL EQUIPMENT)"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "nuclear",
+    "label": "NUCLEAR",
+    "children": [
+      {
+        "id": "nuclear reactor",
+        "label": "NUCLEAR REACTOR",
+        "children": [
+          {
+            "id": "core/fuel",
+            "label": "CORE/FUEL"
+          },
+          {
+            "id": "control rods and drives",
+            "label": "CONTROL RODS AND DRIVES"
+          },
+          {
+            "id": "reactor vessel",
+            "label": "REACTOR VESSEL"
+          },
+          {
+            "id": "coolant system",
+            "label": "COOLANT SYSTEM"
+          }
+        ]
+      },
+      {
+        "id": "balance of plant",
+        "label": "BALANCE OF PLANT",
+        "children": [
+          {
+            "id": "condensing system",
+            "label": "CONDENSING SYSTEM"
+          },
+          {
+            "id": "circulating water systems",
+            "label": "CIRCULATING WATER SYSTEMS"
+          },
+          {
+            "id": "waste water (zero discharge)",
+            "label": "WASTE WATER (ZERO DISCHARGE)"
+          },
+          {
+            "id": "condensate system",
+            "label": "CONDENSATE SYSTEM"
+          }
+        ]
+      },
+      {
+        "id": "steam turbine",
+        "label": "STEAM TURBINE",
+        "children": [
+          {
+            "id": "high pressure turbine",
+            "label": "HIGH PRESSURE TURBINE"
+          },
+          {
+            "id": "intermediate pressure turbine",
+            "label": "INTERMEDIATE PRESSURE TURBINE"
+          },
+          {
+            "id": "low pressure turbine",
+            "label": "LOW PRESSURE TURBINE"
+          },
+          {
+            "id": "valves",
+            "label": "VALVES"
+          }
+        ]
+      },
+      {
+        "id": "generator",
+        "label": "GENERATOR",
+        "children": [
+          {
+            "id": "generator",
+            "label": "GENERATOR"
+          },
+          {
+            "id": "exciter",
+            "label": "EXCITER"
+          },
+          {
+            "id": "cooling system",
+            "label": "COOLING SYSTEM"
+          },
+          {
+            "id": "controls",
+            "label": "CONTROLS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wind",
+    "label": "WIND"
+  },
+  {
+    "id": "solar",
+    "label": "SOLAR"
+  }
+]

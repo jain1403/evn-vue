@@ -1,0 +1,526 @@
+[
+  {
+    "failure_id": 1,
+    "nerc_failure_name": "Alignment/clearance not within limits - axial"
+  },
+  {
+    "failure_id": 2,
+    "nerc_failure_name": "Alignment/clearance not within limits - radial"
+  },
+  {
+    "failure_id": 3,
+    "nerc_failure_name": "Arced/flashover - electrical"
+  },
+  {
+    "failure_id": 4,
+    "nerc_failure_name": "Balance, not within limits"
+  },
+  {
+    "failure_id": 5,
+    "nerc_failure_name": "Binding - radial related contacts (use F670 if contact is in axial direction)"
+  },
+  {
+    "failure_id": 6,
+    "nerc_failure_name": "Broken"
+  },
+  {
+    "failure_id": 7,
+    "nerc_failure_name": "Burned/fire damage - initiated by component (ex. burned motor)"
+  },
+  {
+    "failure_id": 8,
+    "nerc_failure_name": "Burned/fire damage - not initiated by component (ex. pump fire damage due to motor fire)"
+  },
+  {
+    "failure_id": 9,
+    "nerc_failure_name": "Calibration, not within limits"
+  },
+  {
+    "failure_id": 10,
+    "nerc_failure_name": "Carbon, covered"
+  },
+  {
+    "failure_id": 11,
+    "nerc_failure_name": "Chemical excursion damage"
+  },
+  {
+    "failure_id": 12,
+    "nerc_failure_name": "Clogged"
+  },
+  {
+    "failure_id": 13,
+    "nerc_failure_name": "Closed"
+  },
+  {
+    "failure_id": 14,
+    "nerc_failure_name": "Condensation - oil"
+  },
+  {
+    "failure_id": 15,
+    "nerc_failure_name": "Condensation - water"
+  },
+  {
+    "failure_id": 16,
+    "nerc_failure_name": "Connection, loose"
+  },
+  {
+    "failure_id": 17,
+    "nerc_failure_name": "Contaminated - liquid fluids (use F320 for air contamination)"
+  },
+  {
+    "failure_id": 18,
+    "nerc_failure_name": "Contaminated - metals and solids"
+  },
+  {
+    "failure_id": 19,
+    "nerc_failure_name": "Cooling, inadequate - liquid"
+  },
+  {
+    "failure_id": 20,
+    "nerc_failure_name": "Cooling, inadequate - air"
+  },
+  {
+    "failure_id": 21,
+    "nerc_failure_name": "Corrosion - general"
+  },
+  {
+    "failure_id": 22,
+    "nerc_failure_name": "Corrosion - caustic"
+  },
+  {
+    "failure_id": 23,
+    "nerc_failure_name": "Corrosion - fatigue"
+  },
+  {
+    "failure_id": 24,
+    "nerc_failure_name": "Corrosion - high temperature coal ash"
+  },
+  {
+    "failure_id": 25,
+    "nerc_failure_name": "Corrosion - high temperature oil ash"
+  },
+  {
+    "failure_id": 26,
+    "nerc_failure_name": "Corrosion - low temperature"
+  },
+  {
+    "failure_id": 27,
+    "nerc_failure_name": "Corrosion - waterwall fire-side"
+  },
+  {
+    "failure_id": 28,
+    "nerc_failure_name": "Cracked"
+  },
+  {
+    "failure_id": 29,
+    "nerc_failure_name": "Creep, high temperature"
+  },
+  {
+    "failure_id": 30,
+    "nerc_failure_name": "Damaged, foreign object"
+  },
+  {
+    "failure_id": 31,
+    "nerc_failure_name": "Damaged, insulation"
+  },
+  {
+    "failure_id": 32,
+    "nerc_failure_name": "Dirty (use for air contamination or particulate/dirt buildup)"
+  },
+  {
+    "failure_id": 33,
+    "nerc_failure_name": "Disengage, failed to"
+  },
+  {
+    "failure_id": 34,
+    "nerc_failure_name": "Engage, failed to"
+  },
+  {
+    "failure_id": 35,
+    "nerc_failure_name": "Erosion - coal particle"
+  },
+  {
+    "failure_id": 36,
+    "nerc_failure_name": "Erosion - falling slag"
+  },
+  {
+    "failure_id": 37,
+    "nerc_failure_name": "Erosion - sootblower"
+  },
+  {
+    "failure_id": 38,
+    "nerc_failure_name": "Erosion - fly ash"
+  },
+  {
+    "failure_id": 39,
+    "nerc_failure_name": "Erosion - cause unknown"
+  },
+  {
+    "failure_id": 40,
+    "nerc_failure_name": "Erratic or unexplained operating behavior"
+  },
+  {
+    "failure_id": 41,
+    "nerc_failure_name": "Erratic, circuit"
+  },
+  {
+    "failure_id": 42,
+    "nerc_failure_name": "Error, operator"
+  },
+  {
+    "failure_id": 43,
+    "nerc_failure_name": "Error, wiring"
+  },
+  {
+    "failure_id": 44,
+    "nerc_failure_name": "Explosion damage - initiated by the component (ex. pump explosion)"
+  },
+  {
+    "failure_id": 45,
+    "nerc_failure_name": "Explosion damage - not initiated by the component (ex. pipe damage due to pump explosion)"
+  },
+  {
+    "failure_id": 46,
+    "nerc_failure_name": "Flameout"
+  },
+  {
+    "failure_id": 47,
+    "nerc_failure_name": "Foaming"
+  },
+  {
+    "failure_id": 48,
+    "nerc_failure_name": "Frozen (temperature related)"
+  },
+  {
+    "failure_id": 49,
+    "nerc_failure_name": "Grounded electrical component"
+  },
+  {
+    "failure_id": 50,
+    "nerc_failure_name": "Hydrogen damage"
+  },
+  {
+    "failure_id": 51,
+    "nerc_failure_name": "Impact damage"
+  },
+  {
+    "failure_id": 52,
+    "nerc_failure_name": "Indication, false"
+  },
+  {
+    "failure_id": 53,
+    "nerc_failure_name": "Inspection"
+  },
+  {
+    "failure_id": 54,
+    "nerc_failure_name": "Leaks"
+  },
+  {
+    "failure_id": 55,
+    "nerc_failure_name": "Loose"
+  },
+  {
+    "failure_id": 56,
+    "nerc_failure_name": "Lubrication - excessive"
+  },
+  {
+    "failure_id": 57,
+    "nerc_failure_name": "Lubrication - lack of"
+  },
+  {
+    "failure_id": 58,
+    "nerc_failure_name": "Maintenance - cleaning damage"
+  },
+  {
+    "failure_id": 59,
+    "nerc_failure_name": "Maintenance - general"
+  },
+  {
+    "failure_id": 60,
+    "nerc_failure_name": "Material defects"
+  },
+  {
+    "failure_id": 61,
+    "nerc_failure_name": "Modification(s)"
+  },
+  {
+    "failure_id": 62,
+    "nerc_failure_name": "Noisy"
+  },
+  {
+    "failure_id": 63,
+    "nerc_failure_name": "Open"
+  },
+  {
+    "failure_id": 64,
+    "nerc_failure_name": "Overload"
+  },
+  {
+    "failure_id": 65,
+    "nerc_failure_name": "Pitting (localized corrosion)"
+  },
+  {
+    "failure_id": 66,
+    "nerc_failure_name": "Pressure, not within limits"
+  },
+  {
+    "failure_id": 67,
+    "nerc_failure_name": "Rubbing damage - axial related contacts (use F050 if contact is in radial direction)"
+  },
+  {
+    "failure_id": 68,
+    "nerc_failure_name": "Secondary damage"
+  },
+  {
+    "failure_id": 69,
+    "nerc_failure_name": "Seized (not moving)"
+  },
+  {
+    "failure_id": 70,
+    "nerc_failure_name": "Shorted electrical component"
+  },
+  {
+    "failure_id": 71,
+    "nerc_failure_name": "Short-term overheating"
+  },
+  {
+    "failure_id": 72,
+    "nerc_failure_name": "Sticking"
+  },
+  {
+    "failure_id": 73,
+    "nerc_failure_name": "Stress corrosion cracking"
+  },
+  {
+    "failure_id": 74,
+    "nerc_failure_name": "Temperature - compressor discharge, not within limits"
+  },
+  {
+    "failure_id": 75,
+    "nerc_failure_name": "Temperature - exhaust, not within limits"
+  },
+  {
+    "failure_id": 76,
+    "nerc_failure_name": "Temperature - oil, not within limits"
+  },
+  {
+    "failure_id": 77,
+    "nerc_failure_name": "Temperature - wheel spacers, not within limits"
+  },
+  {
+    "failure_id": 78,
+    "nerc_failure_name": "Temperature - general, not within limits"
+  },
+  {
+    "failure_id": 79,
+    "nerc_failure_name": "Testing"
+  },
+  {
+    "failure_id": 80,
+    "nerc_failure_name": "Thermal fatigue"
+  },
+  {
+    "failure_id": 81,
+    "nerc_failure_name": "Torn"
+  },
+  {
+    "failure_id": 82,
+    "nerc_failure_name": "Tripped/shutdown component - automatic controls"
+  },
+  {
+    "failure_id": 83,
+    "nerc_failure_name": "Tripped/shutdown component - manual"
+  },
+  {
+    "failure_id": 84,
+    "nerc_failure_name": "Unknown - investigation underway (change this code once failure mechanism is determined)"
+  },
+  {
+    "failure_id": 85,
+    "nerc_failure_name": "Vibration, not within limits"
+  },
+  {
+    "failure_id": 86,
+    "nerc_failure_name": "Vibration fatigue, leading to failure"
+  },
+  {
+    "failure_id": 87,
+    "nerc_failure_name": "Voltage, not within limits"
+  },
+  {
+    "failure_id": 88,
+    "nerc_failure_name": "Welded relay contacts"
+  },
+  {
+    "failure_id": 89,
+    "nerc_failure_name": "Weld failure - broken weld"
+  },
+  {
+    "failure_id": 90,
+    "nerc_failure_name": "Weld failure - dissimilar metals"
+  },
+  {
+    "failure_id": 91,
+    "nerc_failure_name": "Weld failure - weld defects"
+  },
+  {
+    "failure_id": 92,
+    "nerc_failure_name": "Wiped"
+  },
+  {
+    "failure_id": 93,
+    "nerc_failure_name": "Worn, excessively"
+  },
+  {
+    "failure_id": 94,
+    "nerc_failure_name": "Silica restriction"
+  },
+  {
+    "failure_id": 95,
+    "nerc_failure_name": "Cleaning"
+  },
+  {
+    "failure_id": 96,
+    "nerc_failure_name": "Water Induction"
+  },
+  {
+    "failure_id": 97,
+    "nerc_failure_name": "Emission/environmental restrictions"
+  },
+  {
+    "failure_id": 98,
+    "nerc_failure_name": "Fouling"
+  },
+  {
+    "failure_id": 99,
+    "nerc_failure_name": "Personnel error"
+  },
+  {
+    "failure_id": 100,
+    "nerc_failure_name": "Fire"
+  },
+  {
+    "failure_id": 101,
+    "nerc_failure_name": "Slagging"
+  },
+  {
+    "failure_id": 102,
+    "nerc_failure_name": "Parts Unavailable"
+  },
+  {
+    "failure_id": 103,
+    "nerc_failure_name": "Vibration"
+  },
+  {
+    "failure_id": 104,
+    "nerc_failure_name": "Wet coal/frozen coal/debris"
+  },
+  {
+    "failure_id": 105,
+    "nerc_failure_name": "Foundation loosenes"
+  },
+  {
+    "failure_id": 106,
+    "nerc_failure_name": "Sensor Problem-general"
+  },
+  {
+    "failure_id": 107,
+    "nerc_failure_name": "Hot Spot"
+  },
+  {
+    "failure_id": 108,
+    "nerc_failure_name": "Cold Spot"
+  },
+  {
+    "failure_id": 109,
+    "nerc_failure_name": "Valve/Actuator Position Problem"
+  },
+  {
+    "failure_id": 110,
+    "nerc_failure_name": "Startup"
+  },
+  {
+    "failure_id": 111,
+    "nerc_failure_name": "Compartment ventilation problem"
+  },
+  {
+    "failure_id": 112,
+    "nerc_failure_name": "Steam supply problem"
+  },
+  {
+    "failure_id": 113,
+    "nerc_failure_name": "High Exhaust Spread"
+  },
+  {
+    "failure_id": 114,
+    "nerc_failure_name": "Performance loss"
+  },
+  {
+    "failure_id": 115,
+    "nerc_failure_name": "Valve Control problem"
+  },
+  {
+    "failure_id": 116,
+    "nerc_failure_name": "Thrust Bearing - Axial Position Shift"
+  },
+  {
+    "failure_id": 117,
+    "nerc_failure_name": "Abnormal Dynamics/pulsation"
+  },
+  {
+    "failure_id": 118,
+    "nerc_failure_name": "Foreign Object Damage"
+  },
+  {
+    "failure_id": 119,
+    "nerc_failure_name": "Surge"
+  },
+  {
+    "failure_id": 120,
+    "nerc_failure_name": "Operational problem"
+  },
+  {
+    "failure_id": 121,
+    "nerc_failure_name": "Data Transmission Issue"
+  },
+  {
+    "failure_id": 122,
+    "nerc_failure_name": "Generic Equipment Problem"
+  },
+  {
+    "failure_id": 123,
+    "nerc_failure_name": "Level - not within limits"
+  },
+  {
+    "failure_id": 124,
+    "nerc_failure_name": "Flow problem"
+  },
+  {
+    "failure_id": 125,
+    "nerc_failure_name": "pH Problem"
+  },
+  {
+    "failure_id": 126,
+    "nerc_failure_name": "conductivity problem"
+  },
+  {
+    "failure_id": 127,
+    "nerc_failure_name": "overspray"
+  },
+  {
+    "failure_id": 128,
+    "nerc_failure_name": "Gasing Problem"
+  },
+  {
+    "failure_id": 129,
+    "nerc_failure_name": "current/voltage Phase imbalance"
+  },
+  {
+    "failure_id": 130,
+    "nerc_failure_name": "Control/Instrumentation Problem"
+  },
+  {
+    "failure_id": 131,
+    "nerc_failure_name": "Air Ingress"
+  }
+]

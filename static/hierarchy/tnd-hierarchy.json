@@ -1,0 +1,44 @@
+[
+  {
+    "id": "grid",
+    "label": "GRID",
+    "children": [
+      {
+        "id": "substation",
+        "label": "SUBSTATION",
+        "children": [
+        ]
+      },
+      {
+        "id": "relays",
+        "label": "RELAYS",
+        "children": [
+          {
+            "id": "relays",
+            "label": "RELAYS"
+          }
+        ]
+      },
+      {
+        "id": "breakers",
+        "label": "BREAKERS",
+        "children": [
+          {
+            "id": "breakers",
+            "label": "BREAKERS"
+          }
+        ]
+      },
+      {
+        "id": "transformers",
+        "label": "TRANSFORMERS",
+        "children": [
+          {
+            "id": "transformers",
+            "label": "TRANSFORMERS"
+          }
+        ]
+      }
+    ]
+  }
+]
