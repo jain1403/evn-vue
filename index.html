@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Electricity Value Network</title>
+
+    <script>
+      window.Polymer = window.Polymer || {}
+      window.Polymer.dom = 'shadow'
+    </script>
+
+    <!--Favicon-->
+    <link rel="shortcut icon" href="/static/favicon.ico">
+
+    <!--Polymer-->
+    <link rel="import" href="/static/bower_components/polymer/polymer.html" />
+
+    <!--Predix Components to be used-->
+    <link rel="import" href="/static/bower_components/px-branding-bar/px-branding-bar.html">
+    <!--<link rel="import" href="/static/bower_components/px-app-nav/px-app-nav.html">-->
+    <link rel="import" href="/static/bower_components/px-tree/px-tree.html">
+    <link rel="import" href="/static/bower_components/px-context-browser/px-context-browser-trigger.html">
+    <link rel="import" href="/static/bower_components/px-typeahead/px-typeahead.html">
+    <link rel="import" href="/static/bower_components/px-percent-circle/px-percent-circle.html">
+    <!--<link rel="import" href="/static/bower_components/px-overlay/px-overlay.html">-->
+    <link rel="import" href="/static/bower_components/px-spinner/px-spinner.html">
+    <link rel="import" href="/static/bower_components/px-login/px-login.html">
+    <link rel="import" href="/static/bower_components/px-data-table/px-data-table.html">
+    <link rel="import" href="/static/bower_components/px-tabs/px-tabs.html">
+    <link rel="import" href="/static/bower_components/px-vis-timeseries/px-vis-timeseries.html">
+    <link rel="import" href="/static/bower_components/iron-pages/iron-pages.html">
+    <link rel="import" href="/static/bower_components/px-icon-set/px-icon-set.html"/>
+    <link rel="import" href="/static/bower_components/px-vis-pie-chart/px-vis-pie-chart.html"/>
+    <link rel="import" href="/static/bower_components/px-vis-xy-chart/px-vis-xy-chart.html"/>
+
+    <!--Predix Design dark styles-->
+    <link rel="import" href="/static/bower_components/px-dark-theme/px-dark-theme-styles.html">
+    <style is="custom-style" include="px-dark-theme-styles"></style>
+  </head>
+  <body>
+    <div id="app"></div>
+    <!-- built files will be auto injected -->
+
+    <!--TODO: replace this with inline script that injects webcomponents js as needed-->
+    <script src="/static/bower_components/webcomponentsjs/webcomponents-lite.js"></script>
+
+    <style>
+      html:not([style-scope]):not(.style-scope) {
+        background-color: #ebeff2;
+      }
+      body {
+        margin: 0;
+        background-color: #ebeff2;
+        height: 100vh;
+      }
+    </style>
+
+    <style is="custom-style">
+      html {
+        --px-data-table-separator-color: white;
+        --px-percent-circle-fill-color: #7bbb00
+      }
+    </style>
+  </body>
+</html>
